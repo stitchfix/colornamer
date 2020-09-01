@@ -1,0 +1,950 @@
+xkcd_color,xkcd_color_hex,xkcd_r,xkcd_g,xkcd_b,design_color,design_color_hex,design_r,design_g,design_b,common_color,common_color_hex,common_r,common_g,common_b,color_family,color_type,color_or_neutral
+acid green,#8ffe09,143,254,9,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+adobe,#bd6c48,189,108,72,russet brown,#b15d24,177,93,36,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+algae,#54ac68,84,172,104,asparagus,#6fa460,111,164,96,asparagus,#6fa460,111,164,96,yellow green,saturated color,color
+algae green,#21c36f,33,195,111,kelly green,#1dbb64,29,187,100,tree green,#20b069,32,176,105,blue green,saturated color,color
+almost black,#070d0d,7,13,13,black,#0c0504,12,5,4,black,#0c0504,12,5,4,black,dark neutral,neutral
+amber,#feb308,254,179,8,mac and cheese,#f9b311,249,179,17,golden yellow,#f9b311,249,179,17,yellow orange,saturated color,color
+amethyst,#9b5fc0,155,95,192,sangria,#895393,137,83,147,medium lavender,#8a5891,138,88,145,purple,muted color,color
+apple,#6ecb3c,110,203,60,apple green,#6fd03b,111,208,59,primary green,#39a332,57,163,50,green,saturated color,color
+apple green,#76cd26,118,205,38,apple green,#6fd03b,111,208,59,primary green,#39a332,57,163,50,green,saturated color,color
+apricot,#ffb16d,255,177,109,apricot,#ffb074,255,176,116,peach,#ffc287,255,194,135,red orange,pastel,color
+aqua,#13eac9,19,234,201,aqua fresh,#15f4bd,21,244,189,light mint,#15f4bd,21,244,189,green blue,tinted color,color
+aqua blue,#02d8e9,2,216,233,caribbean blue,#13ebef,19,235,239,caribbean blue,#13ebef,19,235,239,green blue,tinted color,color
+aqua green,#12e193,18,225,147,bright mint,#1fd37c,31,211,124,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+aqua marine,#2ee8bb,46,232,187,aqua fresh,#15f4bd,21,244,189,light mint,#15f4bd,21,244,189,green blue,tinted color,color
+aquamarine,#04d8b2,4,216,178,turquoise,#05cdaf,5,205,175,aqua,#4cd4b9,76,212,185,blue green,tinted color,color
+army green,#4b5d16,75,93,22,deep leaf green,#485a14,72,90,20,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+asparagus,#77ab56,119,171,86,asparagus,#6fa460,111,164,96,asparagus,#6fa460,111,164,96,yellow green,saturated color,color
+aubergine,#3d0734,61,7,52,eggplant,#35043c,53,4,60,dark purple,#390346,57,3,70,purple,dark color,color
+auburn,#9a3001,154,48,1,umber,#953308,149,51,8,umber,#953308,149,51,8,sienna,painterly neutral,neutral
+avocado,#90b134,144,177,52,icky green,#86a51e,134,165,30,avocado,#86a51e,134,165,30,green yellow,dark color,color
+avocado green,#87a922,135,169,34,icky green,#86a51e,134,165,30,avocado,#86a51e,134,165,30,green yellow,dark color,color
+azul,#1d5dec,29,93,236,painter tape blue,#156af7,21,106,247,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+azure,#069af3,6,154,243,azure blue,#088cda,8,140,218,bright blue,#2078c7,32,120,199,blue,tinted color,color
+baby blue,#a2cffe,162,207,254,french blue,#8ec8fd,142,200,253,hydrangea,#94b5fc,148,181,252,violet blue,pastel,color
+baby green,#8cff9e,140,255,158,hospital green,#9bf78d,155,247,141,soft green,#8ddd79,141,221,121,green,tinted color,color
+baby pink,#ffb7ce,255,183,206,ballet pink,#fec0da,254,192,218,pink,#fec9de,254,201,222,red,pastel,color
+baby poo,#ab9004,171,144,4,chartreuse,#b6a306,182,163,6,chartreuse,#b6a306,182,163,6,green yellow,muted color,color
+baby poop,#937c00,147,124,0,chartreuse,#b6a306,182,163,6,chartreuse,#b6a306,182,163,6,green yellow,muted color,color
+baby poop green,#8f9805,143,152,5,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+baby puke green,#b6c406,182,196,6,bright olive,#afbd07,175,189,7,warm olive,#a4b90c,164,185,12,yellow green,saturated color,color
+baby purple,#ca9bf7,202,155,247,lavender,#cba1f9,203,161,249,lilac,#cda7f7,205,167,247,purple,pastel,color
+baby shit brown,#ad900d,173,144,13,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+baby shit green,#889717,136,151,23,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+banana,#ffff7e,255,255,126,banana yellow,#fffd82,255,253,130,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+banana yellow,#fafe4b,250,254,75,gen z yellow,#fcfc2c,252,252,44,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+barbie pink,#fe46a5,254,70,165,barbie pink,#fe46a5,254,70,165,pink carnation,#ed52aa,237,82,170,violet red,tinted color,color
+barf green,#94ac02,148,172,2,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+barney,#ac1db8,172,29,184,magenta,#a90bca,169,11,202,magenta,#a90bca,169,11,202,purple,saturated color,color
+barney purple,#a00498,160,4,152,magenta,#a90bca,169,11,202,magenta,#a90bca,169,11,202,purple,saturated color,color
+battleship grey,#6b7c85,107,124,133,steel grey,#6f808d,111,128,141,medium grey,#848b8d,132,139,141,grey,medium neutral,neutral
+beige,#e6daa6,230,218,166,butter yellow,#f7f2ad,247,242,173,butter yellow,#f7f2ad,247,242,173,yellow,pastel,color
+berry,#990f4b,153,15,75,malbec,#90074b,144,7,75,wine,#980f60,152,15,96,red violet,saturated color,color
+bile,#b5c306,181,195,6,bright olive,#afbd07,175,189,7,warm olive,#a4b90c,164,185,12,yellow green,saturated color,color
+black,#000000,0,0,0,black,#0c0504,12,5,4,black,#0c0504,12,5,4,black,dark neutral,neutral
+bland,#afa88b,175,168,139,light olive,#aba58b,171,165,139,soft olive,#aba58b,171,165,139,olive,light neutral,neutral
+blood,#770001,119,0,1,varsity red,#89070b,137,7,11,brick red,#930e0d,147,14,13,red,dark color,color
+blood orange,#fe4b03,254,75,3,pumpkin,#fe5301,254,83,1,blood orange,#fc6504,252,101,4,orange,saturated color,color
+blood red,#980002,152,0,2,brick,#99120f,153,18,15,brick red,#930e0d,147,14,13,red,dark color,color
+blue,#0343df,3,67,223,ultramarine blue,#0f1fe9,15,31,233,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+blue blue,#2242c7,34,66,199,ultramarine blue,#0f1fe9,15,31,233,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+blue green,#137e6d,19,126,109,dark blue green,#106659,16,102,89,dark blue green,#056563,5,101,99,blue green,dark color,color
+blue grey,#607c8e,96,124,142,blue steel,#748da0,116,141,160,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+blue purple,#5729ce,87,41,206,primary purple,#6128e2,97,40,226,primary purple,#8724cd,135,36,205,purple,saturated color,color
+blue violet,#5d06e9,93,6,233,bright purple,#4d21bf,77,33,191,bright purple,#5636c4,86,54,196,blue violet,saturated color,color
+blue with a hint of purple,#533cc6,83,60,198,bright purple,#4d21bf,77,33,191,bright purple,#5636c4,86,54,196,blue violet,saturated color,color
+blue/green,#0f9b8e,15,155,142,teal aqua,#0fa081,15,160,129,bright teal,#18ad89,24,173,137,blue green,saturated color,color
+blue/grey,#758da3,117,141,163,blue steel,#748da0,116,141,160,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+blue/purple,#5a06ef,90,6,239,primary purple,#6128e2,97,40,226,primary purple,#8724cd,135,36,205,purple,saturated color,color
+blueberry,#464196,70,65,150,bright purple,#4d21bf,77,33,191,bright purple,#5636c4,86,54,196,blue violet,saturated color,color
+bluegreen,#017a79,1,122,121,peacock green,#027272,2,114,114,dark blue green,#056563,5,101,99,blue green,dark color,color
+bluegrey,#85a3b2,133,163,178,grey blue,#7ea2b3,126,162,179,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+bluey green,#2bb179,43,177,121,primary green,#1aa248,26,162,72,primary green,#39a332,57,163,50,green,saturated color,color
+bluey grey,#89a0b0,137,160,176,blue steel,#748da0,116,141,160,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+bluey purple,#6241c7,98,65,199,primary purple,#6128e2,97,40,226,primary purple,#8724cd,135,36,205,purple,saturated color,color
+bluish,#2976bb,41,118,187,soft blue,#2d6ebd,45,110,189,bright blue,#2078c7,32,120,199,blue,tinted color,color
+bluish green,#10a674,16,166,116,teal aqua,#0fa081,15,160,129,bright teal,#18ad89,24,173,137,blue green,saturated color,color
+bluish grey,#748b97,116,139,151,faded turquoise,#718690,113,134,144,muted teal,#64938d,100,147,141,green blue,muted color,color
+bluish purple,#703be7,112,59,231,primary purple,#6128e2,97,40,226,primary purple,#8724cd,135,36,205,purple,saturated color,color
+blurple,#5539cc,85,57,204,prince purple,#5b3cdd,91,60,221,cobalt purple,#5b3cdd,91,60,221,violet blue,saturated color,color
+blush,#f29e8e,242,158,142,light salmon,#fba491,251,164,145,coral,#fc8279,252,130,121,orange red,tinted color,color
+blush pink,#fe828c,254,130,140,coral,#fe7c7c,254,124,124,coral,#fc8279,252,130,121,orange red,tinted color,color
+booger,#9bb53c,155,181,60,avocado,#9ab611,154,182,17,warm olive,#a4b90c,164,185,12,yellow green,saturated color,color
+booger green,#96b403,150,180,3,avocado,#9ab611,154,182,17,warm olive,#a4b90c,164,185,12,yellow green,saturated color,color
+bordeaux,#7b002c,123,0,44,claret,#6d042a,109,4,42,wine,#980f60,152,15,96,red violet,saturated color,color
+boring green,#63b365,99,179,101,asparagus,#6fa460,111,164,96,asparagus,#6fa460,111,164,96,yellow green,saturated color,color
+bottle green,#044a05,4,74,5,hunter green,#06400a,6,64,10,hunter green,#06400a,6,64,10,blue green,dark color,color
+brick,#a03623,160,54,35,brick,#99120f,153,18,15,brick red,#930e0d,147,14,13,red,dark color,color
+brick orange,#c14a09,193,74,9,burnt orange,#c85005,200,80,5,pumpkin spice,#c85005,200,80,5,orange,dark color,color
+brick red,#8f1402,143,20,2,varsity red,#89070b,137,7,11,brick red,#930e0d,147,14,13,red,dark color,color
+bright aqua,#0bf9ea,11,249,234,caribbean blue,#13ebef,19,235,239,caribbean blue,#13ebef,19,235,239,green blue,tinted color,color
+bright blue,#0165fc,1,101,252,painter tape blue,#156af7,21,106,247,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+bright cyan,#41fdfe,65,253,254,caribbean blue,#13ebef,19,235,239,caribbean blue,#13ebef,19,235,239,green blue,tinted color,color
+bright green,#01ff07,1,255,7,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+bright lavender,#c760ff,199,96,255,violet grape,#b262f4,178,98,244,grape,#ae62e3,174,98,227,purple,tinted color,color
+bright light blue,#26f7fd,38,247,253,caribbean blue,#13ebef,19,235,239,caribbean blue,#13ebef,19,235,239,green blue,tinted color,color
+bright light green,#2dfe54,45,254,84,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+bright lilac,#c95efb,201,94,251,violet grape,#b262f4,178,98,244,grape,#ae62e3,174,98,227,purple,tinted color,color
+bright lime,#87fd05,135,253,5,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+bright lime green,#65fe08,101,254,8,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+bright magenta,#ff08e8,255,8,232,faded magenta,#ee42e2,238,66,226,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+bright olive,#9cbb04,156,187,4,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+bright orange,#ff5b00,255,91,0,pumpkin,#fe5301,254,83,1,blood orange,#fc6504,252,101,4,orange,saturated color,color
+bright pink,#fe01b1,254,1,177,hot pink,#fe0298,254,2,152,hot pink,#fd039f,253,3,159,violet red,neon color,color
+bright purple,#be03fd,190,3,253,hot fuchsia,#d019ea,208,25,234,primary purple,#8724cd,135,36,205,purple,saturated color,color
+bright red,#ff000d,255,0,13,orange red,#e0000c,224,0,12,rorange,#f12c11,241,44,17,orange red,saturated color,color
+bright sea green,#05ffa6,5,255,166,seafoam,#7dfbac,125,251,172,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+bright sky blue,#02ccfe,2,204,254,neon blue,#03d2fe,3,210,254,neon blue,#03d2fe,3,210,254,blue,neon color,color
+bright teal,#01f9c6,1,249,198,aqua fresh,#15f4bd,21,244,189,light mint,#15f4bd,21,244,189,green blue,tinted color,color
+bright turquoise,#0ffef9,15,254,249,caribbean blue,#13ebef,19,235,239,caribbean blue,#13ebef,19,235,239,green blue,tinted color,color
+bright violet,#ad0afd,173,10,253,magenta,#a90bca,169,11,202,magenta,#a90bca,169,11,202,purple,saturated color,color
+bright yellow,#fffd01,255,253,1,gen z yellow,#fcfc2c,252,252,44,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+bright yellow green,#9dff00,157,255,0,acid green,#a6fc02,166,252,2,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+british racing green,#05480d,5,72,13,hunter green,#06400a,6,64,10,hunter green,#06400a,6,64,10,blue green,dark color,color
+bronze,#a87900,168,121,0,whiskey brown,#a47204,164,114,4,yellow ochre,#a47204,164,114,4,yellow ochre,painterly neutral,neutral
+brown,#653700,101,55,0,coffee,#764710,118,71,16,light brown,#816131,129,97,49,brown,medium neutral,neutral
+brown green,#706c11,112,108,17,camo froggie,#6d6c0c,109,108,12,swamp green,#6f7410,111,116,16,yellow green,dark color,color
+brown grey,#8d8468,141,132,104,drab olive,#827458,130,116,88,olive,#7e854f,126,133,79,olive,medium neutral,neutral
+brown orange,#b96902,185,105,2,pumpkin spice,#c5700b,197,112,11,dark mustard,#c5700b,197,112,11,yellow orange,dark color,color
+brown red,#922b05,146,43,5,umber,#953308,149,51,8,umber,#953308,149,51,8,sienna,painterly neutral,neutral
+brown yellow,#b29705,178,151,5,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+brownish,#9c6d57,156,109,87,brownish pink,#a27162,162,113,98,brownish pink,#a27162,162,113,98,violet red,make-up color,color
+brownish green,#6a6e09,106,110,9,camo froggie,#6d6c0c,109,108,12,swamp green,#6f7410,111,116,16,yellow green,dark color,color
+brownish grey,#86775f,134,119,95,mocha,#846f52,132,111,82,light brown,#816131,129,97,49,brown,medium neutral,neutral
+brownish orange,#cb7723,203,119,35,pumpkin spice,#c5700b,197,112,11,dark mustard,#c5700b,197,112,11,yellow orange,dark color,color
+brownish pink,#c27e79,194,126,121,light maroon,#b26368,178,99,104,mauve,#c7717f,199,113,127,red,make-up color,color
+brownish purple,#76424e,118,66,78,faded burgundy,#73424d,115,66,77,maroon,#62152f,98,21,47,red violet,dark color,color
+brownish red,#9e3623,158,54,35,brick,#99120f,153,18,15,brick red,#930e0d,147,14,13,red,dark color,color
+brownish yellow,#c9b003,201,176,3,chartreuse,#b6a306,182,163,6,chartreuse,#b6a306,182,163,6,green yellow,muted color,color
+browny green,#6f6c0a,111,108,10,camo froggie,#6d6c0c,109,108,12,swamp green,#6f7410,111,116,16,yellow green,dark color,color
+browny orange,#ca6b02,202,107,2,pumpkin spice,#c5700b,197,112,11,dark mustard,#c5700b,197,112,11,yellow orange,dark color,color
+bruise,#7e4071,126,64,113,faded eggplant,#8c497d,140,73,125,muted purple,#8c588e,140,88,142,red violet,muted color,color
+bubble gum pink,#ff69af,255,105,175,bubblegum pink,#fa6294,250,98,148,medium pink,#fb5f87,251,95,135,red,tinted color,color
+bubblegum,#ff6cb5,255,108,181,rosy pink,#fb78a6,251,120,166,medium pink,#fb5f87,251,95,135,red,tinted color,color
+bubblegum pink,#fe83cc,254,131,204,pinky pink,#fe82c6,254,130,198,pink carnation,#ed52aa,237,82,170,violet red,tinted color,color
+buff,#fef69e,254,246,158,pale yellow,#fef7a2,254,247,162,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+burgundy,#610023,97,0,35,burgundy,#680029,104,0,41,maroon,#62152f,98,21,47,red violet,dark color,color
+burnt orange,#c04e01,192,78,1,burnt orange,#c85005,200,80,5,pumpkin spice,#c85005,200,80,5,orange,dark color,color
+burnt red,#9f2305,159,35,5,brick,#99120f,153,18,15,brick red,#930e0d,147,14,13,red,dark color,color
+burnt siena,#b75203,183,82,3,copper,#b55f07,181,95,7,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+burnt sienna,#b04e0f,176,78,15,russet brown,#b15d24,177,93,36,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+burnt umber,#a0450e,160,69,14,umber,#953308,149,51,8,umber,#953308,149,51,8,sienna,painterly neutral,neutral
+burnt yellow,#d5ab09,213,171,9,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+burple,#6832e3,104,50,227,primary purple,#6128e2,97,40,226,primary purple,#8724cd,135,36,205,purple,saturated color,color
+butter,#ffff81,255,255,129,banana yellow,#fffd82,255,253,130,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+butter yellow,#fffd74,255,253,116,canary yellow,#fefe6f,254,254,111,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+butterscotch,#fdb147,253,177,71,kumquat,#fdab30,253,171,48,navel orange,#fdab30,253,171,48,yellow orange,tinted color,color
+cadet blue,#4e7496,78,116,150,dark petrol,#385f81,56,95,129,dark petrol,#385f81,56,95,129,violet blue,dark color,color
+camel,#c69f59,198,159,89,light mustard,#c9a55d,201,165,93,light mustard,#c9a55d,201,165,93,yellow,muted color,color
+camo,#7f8f4e,127,143,78,camo,#75842e,117,132,46,swamp green,#6f7410,111,116,16,yellow green,dark color,color
+camo green,#526525,82,101,37,deep leaf green,#485a14,72,90,20,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+camouflage green,#4b6113,75,97,19,dark olive,#4c4d10,76,77,16,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+canary,#fdff63,253,255,99,canary yellow,#fefe6f,254,254,111,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+canary yellow,#fffe40,255,254,64,gen z yellow,#fcfc2c,252,252,44,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+candy pink,#ff63e9,255,99,233,faded magenta,#ee42e2,238,66,226,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+caramel,#af6f09,175,111,9,whiskey brown,#a47204,164,114,4,yellow ochre,#a47204,164,114,4,yellow ochre,painterly neutral,neutral
+carmine,#9d0216,157,2,22,brick,#99120f,153,18,15,brick red,#930e0d,147,14,13,red,dark color,color
+carnation,#fd798f,253,121,143,pinky coral,#fa8094,250,128,148,medium pink,#fb5f87,251,95,135,red,tinted color,color
+carnation pink,#ff7fa7,255,127,167,rosy pink,#fb78a6,251,120,166,medium pink,#fb5f87,251,95,135,red,tinted color,color
+carolina blue,#8ab8fe,138,184,254,hydrangea,#97aafc,151,170,252,hydrangea,#94b5fc,148,181,252,violet blue,pastel,color
+celadon,#befdb7,190,253,183,mint,#aaf6b9,170,246,185,fresh mint,#aaf6b9,170,246,185,blue green,pastel,color
+celery,#c1fd95,193,253,149,pistachio,#c0fc85,192,252,133,lime yellow,#c0fc85,192,252,133,green yellow,tinted color,color
+cement,#a5a391,165,163,145,light olive,#aba58b,171,165,139,soft olive,#aba58b,171,165,139,olive,light neutral,neutral
+cerise,#de0c62,222,12,98,pomegranate,#d90c5c,217,12,92,dark pink,#ed1a51,237,26,81,red,saturated color,color
+cerulean,#0485d1,4,133,209,azure blue,#088cda,8,140,218,bright blue,#2078c7,32,120,199,blue,tinted color,color
+cerulean blue,#056eee,5,110,238,painter tape blue,#156af7,21,106,247,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+charcoal,#343837,52,56,55,dark olive,#4c4d10,76,77,16,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+charcoal grey,#3c4142,60,65,66,dark grey,#393c3c,57,60,60,charcoal,#495459,73,84,89,grey,dark neutral,neutral
+chartreuse,#c1f80a,193,248,10,neon lime yellow,#c5f622,197,246,34,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+cherry,#cf0234,207,2,52,dark red,#c40135,196,1,53,primary red,#da0128,218,1,40,red,saturated color,color
+cherry red,#f7022a,247,2,42,tomato red,#fa0116,250,1,22,primary red,#da0128,218,1,40,red,saturated color,color
+chestnut,#742802,116,40,2,burnt umber,#711c03,113,28,3,brown,#633a0b,99,58,11,brown,dark neutral,neutral
+chocolate,#3d1c02,61,28,2,chocolate brown,#3b1b01,59,27,1,brown,#633a0b,99,58,11,brown,dark neutral,neutral
+chocolate brown,#411900,65,25,0,chocolate brown,#3b1b01,59,27,1,brown,#633a0b,99,58,11,brown,dark neutral,neutral
+cinnamon,#ac4f06,172,79,6,russet brown,#b15d24,177,93,36,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+claret,#680018,104,0,24,claret,#6d042a,109,4,42,wine,#980f60,152,15,96,red violet,saturated color,color
+clay,#b66a50,182,106,80,russet brown,#b15d24,177,93,36,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+clay brown,#b2713d,178,113,61,cognac leather,#a66a36,166,106,54,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+clear blue,#247afd,36,122,253,painter tape blue,#156af7,21,106,247,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+cloudy blue,#acc2d9,172,194,217,blue grey,#b1c5dd,177,197,221,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+cobalt,#1e488f,30,72,143,cobalt medium,#141ca5,20,28,165,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+cobalt blue,#030aa7,3,10,167,cobalt medium,#141ca5,20,28,165,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+cocoa,#875f42,135,95,66,brown leather,#875f42,135,95,66,brown,#633a0b,99,58,11,brown,dark neutral,neutral
+coffee,#a6814c,166,129,76,warm khaki,#ab824c,171,130,76,mocha,#aa8556,170,133,86,khaki,medium neutral,neutral
+cool blue,#4984b8,73,132,184,faded blue,#4d84c3,77,132,195,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+cool green,#33b864,51,184,100,kelly green,#1dbb64,29,187,100,tree green,#20b069,32,176,105,blue green,saturated color,color
+cool grey,#95a3a6,149,163,166,medium grey,#8e908d,142,144,141,medium grey,#848b8d,132,139,141,grey,medium neutral,neutral
+copper,#b66325,182,99,37,copper,#b55f07,181,95,7,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+coral,#fc5a50,252,90,80,sunset coral,#fd5c58,253,92,88,coral,#fc8279,252,130,121,orange red,tinted color,color
+coral pink,#ff6163,255,97,99,sunset coral,#fd5c58,253,92,88,coral,#fc8279,252,130,121,orange red,tinted color,color
+cornflower,#6a79f7,106,121,247,dark periwinkle,#7683ec,118,131,236,cornflower,#7683ec,118,131,236,blue violet,tinted color,color
+cornflower blue,#5170d7,81,112,215,dark periwinkle,#7683ec,118,131,236,cornflower,#7683ec,118,131,236,blue violet,tinted color,color
+cranberry,#9e003a,158,0,58,raspberry,#a50145,165,1,69,raspberry,#a50145,165,1,69,violet red,dark color,color
+cream,#ffffc2,255,255,194,butter yellow,#f7f2ad,247,242,173,butter yellow,#f7f2ad,247,242,173,yellow,pastel,color
+creme,#ffffb6,255,255,182,butter yellow,#f7f2ad,247,242,173,butter yellow,#f7f2ad,247,242,173,yellow,pastel,color
+crimson,#8c000f,140,0,15,brick,#99120f,153,18,15,brick red,#930e0d,147,14,13,red,dark color,color
+custard,#fffd78,255,253,120,canary yellow,#fefe6f,254,254,111,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+cyan,#00ffff,0,255,255,caribbean blue,#13ebef,19,235,239,caribbean blue,#13ebef,19,235,239,green blue,tinted color,color
+dandelion,#fedf08,254,223,8,sunshine,#fae23a,250,226,58,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+dark,#1b2431,27,36,49,navy,#040937,4,9,55,navy,#031656,3,22,86,blue,dark neutral,neutral
+dark aqua,#05696b,5,105,107,peacock green,#027272,2,114,114,dark blue green,#056563,5,101,99,blue green,dark color,color
+dark aquamarine,#017371,1,115,113,peacock green,#027272,2,114,114,dark blue green,#056563,5,101,99,blue green,dark color,color
+dark beige,#ac9362,172,147,98,camel,#bfa26a,191,162,106,khaki,#c8ac7f,200,172,127,khaki,light neutral,neutral
+dark blue,#00035b,0,3,91,cobalt,#040870,4,8,112,navy,#031656,3,22,86,blue,dark neutral,neutral
+dark blue green,#005249,0,82,73,dark blue green,#106659,16,102,89,dark blue green,#056563,5,101,99,blue green,dark color,color
+dark blue grey,#1f3b4d,31,59,77,dark blue grey,#1f3b4d,31,59,77,dark aqua,#156588,21,101,136,green blue,dark color,color
+dark brown,#341c02,52,28,2,chocolate brown,#3b1b01,59,27,1,brown,#633a0b,99,58,11,brown,dark neutral,neutral
+dark coral,#cf524e,207,82,78,terra cotta,#c64e4a,198,78,74,faded red,#c96364,201,99,100,orange red,muted color,color
+dark cream,#fff39a,255,243,154,pale yellow,#fef7a2,254,247,162,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+dark cyan,#0a888a,10,136,138,teal,#148f8a,20,143,138,peacock blue,#179e95,23,158,149,green blue,saturated color,color
+dark forest green,#002d04,0,45,4,hunter green,#06400a,6,64,10,hunter green,#06400a,6,64,10,blue green,dark color,color
+dark fuchsia,#9d0759,157,7,89,dark fuchsia,#9c025c,156,2,92,wine,#980f60,152,15,96,red violet,saturated color,color
+dark gold,#b59410,181,148,16,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+dark grass green,#388004,56,128,4,fern green,#659c40,101,156,64,stem green,#659c40,101,156,64,yellow green,tinted color,color
+dark green,#033500,3,53,0,hunter green,#06400a,6,64,10,hunter green,#06400a,6,64,10,blue green,dark color,color
+dark green blue,#1f6357,31,99,87,dark blue green,#106659,16,102,89,dark blue green,#056563,5,101,99,blue green,dark color,color
+dark grey,#363737,54,55,55,dark grey,#393c3c,57,60,60,charcoal,#495459,73,84,89,grey,dark neutral,neutral
+dark grey blue,#29465b,41,70,91,darkest indigo blue,#29465b,41,70,91,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+dark hot pink,#d90166,217,1,102,pomegranate,#d90c5c,217,12,92,dark pink,#ed1a51,237,26,81,red,saturated color,color
+dark indigo,#1f0954,31,9,84,eggplant,#35043c,53,4,60,dark purple,#390346,57,3,70,purple,dark color,color
+dark khaki,#9b8f55,155,143,85,warm olive,#a29a5b,162,154,91,olive,#7e854f,126,133,79,olive,medium neutral,neutral
+dark lavender,#856798,133,103,152,amethyst,#856e8c,133,110,140,purple grey,#856e8c,133,110,140,blue violet,muted color,color
+dark lilac,#9c6da5,156,109,165,dark amethyst,#8b618e,139,97,142,medium lavender,#8a5891,138,88,145,purple,muted color,color
+dark lime,#84b701,132,183,1,slime green,#9bc20e,155,194,14,lime green,#9abf11,154,191,17,yellow green,tinted color,color
+dark lime green,#7ebd01,126,189,1,kermit,#77b31a,119,179,26,primary green,#39a332,57,163,50,green,saturated color,color
+dark magenta,#960056,150,0,86,dark fuchsia,#9c025c,156,2,92,wine,#980f60,152,15,96,red violet,saturated color,color
+dark maroon,#3c0008,60,0,8,dark burgundy,#440102,68,1,2,maroon,#62152f,98,21,47,red violet,dark color,color
+dark mauve,#874c62,135,76,98,faded burgundy,#73424d,115,66,77,maroon,#62152f,98,21,47,red violet,dark color,color
+dark mint,#48c072,72,192,114,bright mint,#1fd37c,31,211,124,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+dark mint green,#20c073,32,192,115,kelly green,#1dbb64,29,187,100,tree green,#20b069,32,176,105,blue green,saturated color,color
+dark mustard,#a88905,168,137,5,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+dark navy,#000435,0,4,53,navy,#040937,4,9,55,navy,#031656,3,22,86,blue,dark neutral,neutral
+dark navy blue,#00022e,0,2,46,navy,#040937,4,9,55,navy,#031656,3,22,86,blue,dark neutral,neutral
+dark olive,#373e02,55,62,2,dark olive,#4c4d10,76,77,16,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+dark olive green,#3c4d03,60,77,3,deep leaf green,#485a14,72,90,20,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+dark orange,#c65102,198,81,2,burnt orange,#c85005,200,80,5,pumpkin spice,#c85005,200,80,5,orange,dark color,color
+dark pastel green,#56ae57,86,174,87,leafy green,#44a944,68,169,68,primary green,#39a332,57,163,50,green,saturated color,color
+dark peach,#de7e5d,222,126,93,faded peach,#de7e5d,222,126,93,dark peach,#de7e5d,222,126,93,red orange,muted color,color
+dark periwinkle,#665fd1,102,95,209,iris,#675bcc,103,91,204,bright purple,#5636c4,86,54,196,blue violet,saturated color,color
+dark pink,#cb416b,203,65,107,lipstick,#d24374,210,67,116,pink carnation,#ed52aa,237,82,170,violet red,tinted color,color
+dark plum,#3f012c,63,1,44,eggplant,#35043c,53,4,60,dark purple,#390346,57,3,70,purple,dark color,color
+dark purple,#35063e,53,6,62,dark purple,#41035f,65,3,95,dark purple,#390346,57,3,70,purple,dark color,color
+dark red,#840000,132,0,0,brick,#99120f,153,18,15,brick red,#930e0d,147,14,13,red,dark color,color
+dark rose,#b5485d,181,72,93,dusty red,#b6455f,182,69,95,dusty red,#b6455f,182,69,95,violet red,muted color,color
+dark royal blue,#02066f,2,6,111,cobalt,#040870,4,8,112,navy,#031656,3,22,86,blue,dark neutral,neutral
+dark sage,#598556,89,133,86,dark sage,#5f8961,95,137,97,sage green,#759e6d,117,158,109,blue green,muted color,color
+dark salmon,#c85a53,200,90,83,terra cotta,#c64e4a,198,78,74,faded red,#c96364,201,99,100,orange red,muted color,color
+dark sand,#a88f59,168,143,89,medium khaki,#ae9367,174,147,103,mocha,#aa8556,170,133,86,khaki,medium neutral,neutral
+dark sea green,#11875d,17,135,93,primary green,#1aa248,26,162,72,primary green,#39a332,57,163,50,green,saturated color,color
+dark seafoam,#1fb57a,31,181,122,tinted green,#1ebb85,30,187,133,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+dark seafoam green,#3eaf76,62,175,118,emerald green,#3da474,61,164,116,aquatic green,#3da474,61,164,116,green,saturated color,color
+dark sky blue,#448ee4,68,142,228,faded blue,#4d84c3,77,132,195,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+dark slate blue,#214761,33,71,97,dark petrol,#385f81,56,95,129,dark petrol,#385f81,56,95,129,violet blue,dark color,color
+dark tan,#af884a,175,136,74,warm khaki,#ab824c,171,130,76,mocha,#aa8556,170,133,86,khaki,medium neutral,neutral
+dark taupe,#7f684e,127,104,78,mocha,#846f52,132,111,82,light brown,#816131,129,97,49,brown,medium neutral,neutral
+dark teal,#014d4e,1,77,78,dark malachite,#01575b,1,87,91,dark blue green,#056563,5,101,99,blue green,dark color,color
+dark turquoise,#045c5a,4,92,90,dark malachite,#01575b,1,87,91,dark blue green,#056563,5,101,99,blue green,dark color,color
+dark violet,#34013f,52,1,63,eggplant,#35043c,53,4,60,dark purple,#390346,57,3,70,purple,dark color,color
+dark yellow,#d5b60a,213,182,10,primary yellow,#d1b90b,209,185,11,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+dark yellow green,#728f02,114,143,2,icky green,#86a51e,134,165,30,avocado,#86a51e,134,165,30,green yellow,dark color,color
+darkblue,#030764,3,7,100,cobalt,#040870,4,8,112,navy,#031656,3,22,86,blue,dark neutral,neutral
+darkgreen,#054907,5,73,7,hunter green,#06400a,6,64,10,hunter green,#06400a,6,64,10,blue green,dark color,color
+darkish blue,#014182,1,65,130,indigo,#033c72,3,60,114,navy,#031656,3,22,86,blue,dark neutral,neutral
+darkish green,#287c37,40,124,55,spruce,#187632,24,118,50,primary green,#39a332,57,163,50,green,saturated color,color
+darkish pink,#da467d,218,70,125,lipstick,#d24374,210,67,116,pink carnation,#ed52aa,237,82,170,violet red,tinted color,color
+darkish purple,#751973,117,25,115,dark grape,#691662,105,22,98,primary purple,#8724cd,135,36,205,purple,saturated color,color
+darkish red,#a90308,169,3,8,brick,#99120f,153,18,15,brick red,#930e0d,147,14,13,red,dark color,color
+deep aqua,#08787f,8,120,127,ocean teal,#037e90,3,126,144,ocean teal,#037e90,3,126,144,green blue,muted color,color
+deep blue,#040273,4,2,115,cobalt,#040870,4,8,112,navy,#031656,3,22,86,blue,dark neutral,neutral
+deep brown,#410200,65,2,0,dark burgundy,#440102,68,1,2,maroon,#62152f,98,21,47,red violet,dark color,color
+deep green,#02590f,2,89,15,deep green,#1b5715,27,87,21,dark green,#1b5715,27,87,21,green,dark color,color
+deep lavender,#8d5eb7,141,94,183,sangria,#895393,137,83,147,medium lavender,#8a5891,138,88,145,purple,muted color,color
+deep lilac,#966ebd,150,110,189,wisteria,#9f75bf,159,117,191,muted purple,#8c588e,140,88,142,red violet,muted color,color
+deep magenta,#a0025c,160,2,92,dark fuchsia,#9c025c,156,2,92,wine,#980f60,152,15,96,red violet,saturated color,color
+deep orange,#dc4d01,220,77,1,burnt orange,#c85005,200,80,5,pumpkin spice,#c85005,200,80,5,orange,dark color,color
+deep pink,#cb0162,203,1,98,ruby slipper,#ca0154,202,1,84,ruby slipper,#ca0154,202,1,84,violet red,saturated color,color
+deep purple,#36013f,54,1,63,eggplant,#35043c,53,4,60,dark purple,#390346,57,3,70,purple,dark color,color
+deep red,#9a0200,154,2,0,varsity red,#89070b,137,7,11,brick red,#930e0d,147,14,13,red,dark color,color
+deep rose,#c74767,199,71,103,dusty red,#b6455f,182,69,95,dusty red,#b6455f,182,69,95,violet red,muted color,color
+deep sea blue,#015482,1,84,130,dark turquoise,#015482,1,84,130,dark aqua,#156588,21,101,136,green blue,dark color,color
+deep sky blue,#0d75f8,13,117,248,painter tape blue,#156af7,21,106,247,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+deep teal,#00555a,0,85,90,dark malachite,#01575b,1,87,91,dark blue green,#056563,5,101,99,blue green,dark color,color
+deep turquoise,#017374,1,115,116,peacock green,#027272,2,114,114,dark blue green,#056563,5,101,99,blue green,dark color,color
+deep violet,#490648,73,6,72,eggplant,#35043c,53,4,60,dark purple,#390346,57,3,70,purple,dark color,color
+denim,#3b638c,59,99,140,dark petrol,#385f81,56,95,129,dark petrol,#385f81,56,95,129,violet blue,dark color,color
+denim blue,#3b5b92,59,91,146,dull blue,#43669b,67,102,155,french blue,#43669b,67,102,155,violet blue,muted color,color
+desert,#ccad60,204,173,96,light mustard,#c9a55d,201,165,93,light mustard,#c9a55d,201,165,93,yellow,muted color,color
+diarrhea,#9f8303,159,131,3,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+dirt,#8a6e45,138,110,69,cocoa,#896d32,137,109,50,light brown,#816131,129,97,49,brown,medium neutral,neutral
+dirt brown,#836539,131,101,57,cocoa,#896d32,137,109,50,light brown,#816131,129,97,49,brown,medium neutral,neutral
+dirty blue,#3f829d,63,130,157,ocean blue,#187095,24,112,149,dark aqua,#156588,21,101,136,green blue,dark color,color
+dirty green,#667e2c,102,126,44,leafy green,#44a944,68,169,68,primary green,#39a332,57,163,50,green,saturated color,color
+dirty orange,#c87606,200,118,6,pumpkin spice,#c5700b,197,112,11,dark mustard,#c5700b,197,112,11,yellow orange,dark color,color
+dirty pink,#ca7b80,202,123,128,conch shell pink,#cf828a,207,130,138,faded red,#c96364,201,99,100,orange red,muted color,color
+dirty purple,#734a65,115,74,101,faded purple,#734a65,115,74,101,muted purple,#8c588e,140,88,142,red violet,muted color,color
+dirty yellow,#cdc50a,205,197,10,chartreuse,#b6a306,182,163,6,chartreuse,#b6a306,182,163,6,green yellow,muted color,color
+dodger blue,#3e82fc,62,130,252,faded blue,#4d84c3,77,132,195,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+drab,#828344,130,131,68,medium army green,#6f7a39,111,122,57,olive,#7e854f,126,133,79,olive,medium neutral,neutral
+drab green,#749551,116,149,81,grey green,#75955d,117,149,93,olive,#7e854f,126,133,79,olive,medium neutral,neutral
+dried blood,#4b0101,75,1,1,dark burgundy,#440102,68,1,2,maroon,#62152f,98,21,47,red violet,dark color,color
+duck egg blue,#c3fbf4,195,251,244,pale aqua,#c9fefb,201,254,251,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+dull blue,#49759c,73,117,156,dull blue,#43669b,67,102,155,french blue,#43669b,67,102,155,violet blue,muted color,color
+dull brown,#876e4b,135,110,75,mocha,#846f52,132,111,82,light brown,#816131,129,97,49,brown,medium neutral,neutral
+dull green,#74a662,116,166,98,granny smith apple,#74ae74,116,174,116,soft green,#8ddd79,141,221,121,green,tinted color,color
+dull orange,#d8863b,216,134,59,whiskey,#e88940,232,137,64,whiskey,#e88940,232,137,64,yellow orange,muted color,color
+dull pink,#d5869d,213,134,157,dull pink,#d5869d,213,134,157,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+dull purple,#84597e,132,89,126,dark amethyst,#8b618e,139,97,142,medium lavender,#8a5891,138,88,145,purple,muted color,color
+dull red,#bb3f3f,187,63,63,terra cotta,#c64e4a,198,78,74,faded red,#c96364,201,99,100,orange red,muted color,color
+dull teal,#5f9e8f,95,158,143,petrol,#5e9a8b,94,154,139,muted teal,#64938d,100,147,141,green blue,muted color,color
+dull yellow,#eedc5b,238,220,91,sunshine,#fae23a,250,226,58,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+dusk,#4e5481,78,84,129,dusk,#4e5286,78,82,134,dusk purple,#4e5286,78,82,134,blue violet,dark color,color
+dusk blue,#26538d,38,83,141,indigo bright blue,#2a568a,42,86,138,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+dusky blue,#475f94,71,95,148,dull blue,#43669b,67,102,155,french blue,#43669b,67,102,155,violet blue,muted color,color
+dusky pink,#cc7a8b,204,122,139,dusty rose,#c47581,196,117,129,mauve,#c7717f,199,113,127,red,make-up color,color
+dusky purple,#895b7b,137,91,123,sangria,#895393,137,83,147,medium lavender,#8a5891,138,88,145,purple,muted color,color
+dusky rose,#ba6873,186,104,115,dusty rose,#c47581,196,117,129,mauve,#c7717f,199,113,127,red,make-up color,color
+dust,#b2996e,178,153,110,medium khaki,#ae9367,174,147,103,mocha,#aa8556,170,133,86,khaki,medium neutral,neutral
+dusty blue,#5a86ad,90,134,173,faded blue,#4d84c3,77,132,195,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+dusty green,#76a973,118,169,115,granny smith apple,#74ae74,116,174,116,soft green,#8ddd79,141,221,121,green,tinted color,color
+dusty lavender,#ac86a8,172,134,168,dusty lavender,#a885aa,168,133,170,dusty lavender,#a885aa,168,133,170,red violet,muted color,color
+dusty orange,#f0833a,240,131,58,whiskey,#e88940,232,137,64,whiskey,#e88940,232,137,64,yellow orange,muted color,color
+dusty pink,#d58a94,213,138,148,conch shell pink,#cf828a,207,130,138,faded red,#c96364,201,99,100,orange red,muted color,color
+dusty purple,#825f87,130,95,135,dark amethyst,#8b618e,139,97,142,medium lavender,#8a5891,138,88,145,purple,muted color,color
+dusty red,#b9484e,185,72,78,faded red,#cd4c4c,205,76,76,washed red,#c13c39,193,60,57,red,muted color,color
+dusty rose,#c0737a,192,115,122,dusty rose,#c47581,196,117,129,mauve,#c7717f,199,113,127,red,make-up color,color
+dusty teal,#4c9085,76,144,133,petrol,#5e9a8b,94,154,139,muted teal,#64938d,100,147,141,green blue,muted color,color
+earth,#a2653e,162,101,62,cognac leather,#a66a36,166,106,54,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+easter green,#8cfd7e,140,253,126,hospital green,#9bf78d,155,247,141,soft green,#8ddd79,141,221,121,green,tinted color,color
+easter purple,#c071fe,192,113,254,violet grape,#b262f4,178,98,244,grape,#ae62e3,174,98,227,purple,tinted color,color
+ecru,#feffca,254,255,202,neon pale yellow,#feffcf,254,255,207,neon yellow,#f6f489,246,244,137,yellow,neon color,color
+egg shell,#fffcc4,255,252,196,butter yellow,#f7f2ad,247,242,173,butter yellow,#f7f2ad,247,242,173,yellow,pastel,color
+eggplant,#380835,56,8,53,eggplant,#35043c,53,4,60,dark purple,#390346,57,3,70,purple,dark color,color
+eggplant purple,#430541,67,5,65,eggplant,#35043c,53,4,60,dark purple,#390346,57,3,70,purple,dark color,color
+eggshell,#ffffd4,255,255,212,neon pale yellow,#feffcf,254,255,207,neon yellow,#f6f489,246,244,137,yellow,neon color,color
+eggshell blue,#c4fff7,196,255,247,pale aqua,#c9fefb,201,254,251,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+electric blue,#0652ff,6,82,255,painter tape blue,#156af7,21,106,247,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+electric green,#21fc0d,33,252,13,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+electric lime,#a8ff04,168,255,4,acid green,#a6fc02,166,252,2,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+electric pink,#ff0490,255,4,144,hot pink,#fe0298,254,2,152,hot pink,#fd039f,253,3,159,violet red,neon color,color
+electric purple,#aa23ff,170,35,255,ultraviolet,#9613df,150,19,223,primary purple,#8724cd,135,36,205,purple,saturated color,color
+emerald,#01a049,1,160,73,irish green,#109438,16,148,56,primary green,#39a332,57,163,50,green,saturated color,color
+emerald green,#028f1e,2,143,30,irish green,#109438,16,148,56,primary green,#39a332,57,163,50,green,saturated color,color
+evergreen,#05472a,5,71,42,hunter green,#06400a,6,64,10,hunter green,#06400a,6,64,10,blue green,dark color,color
+faded blue,#658cbb,101,140,187,faded blue,#4d84c3,77,132,195,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+faded green,#7bb274,123,178,116,granny smith apple,#74ae74,116,174,116,soft green,#8ddd79,141,221,121,green,tinted color,color
+faded orange,#f0944d,240,148,77,whiskey,#e88940,232,137,64,whiskey,#e88940,232,137,64,yellow orange,muted color,color
+faded pink,#de9dac,222,157,172,moody pink,#d58998,213,137,152,moody pink,#d58998,213,137,152,violet red,pastel,color
+faded purple,#916e99,145,110,153,washed purple,#8c6f95,140,111,149,faded grape,#8c6f95,140,111,149,blue violet,muted color,color
+faded red,#d3494e,211,73,78,faded red,#cd4c4c,205,76,76,washed red,#c13c39,193,60,57,red,muted color,color
+faded yellow,#feff7f,254,255,127,canary yellow,#fefe6f,254,254,111,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+fawn,#cfaf7b,207,175,123,camel,#bfa26a,191,162,106,khaki,#c8ac7f,200,172,127,khaki,light neutral,neutral
+fern,#63a950,99,169,80,fern green,#659c40,101,156,64,stem green,#659c40,101,156,64,yellow green,tinted color,color
+fern green,#548d44,84,141,68,fern green,#659c40,101,156,64,stem green,#659c40,101,156,64,yellow green,tinted color,color
+fire engine red,#fe0002,254,0,2,tomato red,#fa0116,250,1,22,primary red,#da0128,218,1,40,red,saturated color,color
+flat blue,#3c73a8,60,115,168,faded blue,#4d84c3,77,132,195,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+flat green,#699d4c,105,157,76,fern green,#659c40,101,156,64,stem green,#659c40,101,156,64,yellow green,tinted color,color
+fluorescent green,#08ff08,8,255,8,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+fluro green,#0aff02,10,255,2,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+foam green,#90fda9,144,253,169,seafoam,#7dfbac,125,251,172,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+forest,#0b5509,11,85,9,deep green,#1b5715,27,87,21,dark green,#1b5715,27,87,21,green,dark color,color
+forest green,#06470c,6,71,12,hunter green,#06400a,6,64,10,hunter green,#06400a,6,64,10,blue green,dark color,color
+forrest green,#154406,21,68,6,hunter green,#06400a,6,64,10,hunter green,#06400a,6,64,10,blue green,dark color,color
+french blue,#436bad,67,107,173,dull blue,#43669b,67,102,155,french blue,#43669b,67,102,155,violet blue,muted color,color
+fresh green,#69d84f,105,216,79,apple green,#6fd03b,111,208,59,primary green,#39a332,57,163,50,green,saturated color,color
+frog green,#58bc08,88,188,8,frog green,#5fb118,95,177,24,primary green,#39a332,57,163,50,green,saturated color,color
+fuchsia,#ed0dd9,237,13,217,faded magenta,#ee42e2,238,66,226,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+gold,#dbb40c,219,180,12,primary yellow,#d1b90b,209,185,11,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+golden,#f5bf03,245,191,3,goldenrod,#fbc20a,251,194,10,dandelion,#fbc20a,251,194,10,orange yellow,saturated color,color
+golden brown,#b27a01,178,122,1,whiskey brown,#a47204,164,114,4,yellow ochre,#a47204,164,114,4,yellow ochre,painterly neutral,neutral
+golden rod,#f9bc08,249,188,8,mac and cheese,#f9b311,249,179,17,golden yellow,#f9b311,249,179,17,yellow orange,saturated color,color
+golden yellow,#fec615,254,198,21,goldenrod,#fbc20a,251,194,10,dandelion,#fbc20a,251,194,10,orange yellow,saturated color,color
+goldenrod,#fac205,250,194,5,goldenrod,#fbc20a,251,194,10,dandelion,#fbc20a,251,194,10,orange yellow,saturated color,color
+grape,#6c3461,108,52,97,sangria,#895393,137,83,147,medium lavender,#8a5891,138,88,145,purple,muted color,color
+grape purple,#5d1451,93,20,81,dark grape,#691662,105,22,98,primary purple,#8724cd,135,36,205,purple,saturated color,color
+grapefruit,#fd5956,253,89,86,sunset coral,#fd5c58,253,92,88,coral,#fc8279,252,130,121,orange red,tinted color,color
+grass,#5cac2d,92,172,45,frog green,#5fb118,95,177,24,primary green,#39a332,57,163,50,green,saturated color,color
+grass green,#3f9b0b,63,155,11,grass green,#449e07,68,158,7,primary green,#39a332,57,163,50,green,saturated color,color
+grassy green,#419c03,65,156,3,grass green,#449e07,68,158,7,primary green,#39a332,57,163,50,green,saturated color,color
+green,#15b01a,21,176,26,primary green,#1aa248,26,162,72,primary green,#39a332,57,163,50,green,saturated color,color
+green apple,#5edc1f,94,220,31,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+green blue,#06b48b,6,180,139,tinted green,#1ebb85,30,187,133,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+green brown,#544e03,84,78,3,dark olive,#4c4d10,76,77,16,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+green grey,#77926f,119,146,111,grey green,#75955d,117,149,93,olive,#7e854f,126,133,79,olive,medium neutral,neutral
+green teal,#0cb577,12,181,119,oz green,#23a76d,35,167,109,tree green,#20b069,32,176,105,blue green,saturated color,color
+green yellow,#c9ff27,201,255,39,neon lime yellow,#c5f622,197,246,34,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+green/blue,#01c08d,1,192,141,mountain meadow,#21b991,33,185,145,bright teal,#18ad89,24,173,137,blue green,saturated color,color
+green/yellow,#b5ce08,181,206,8,slime green,#9bc20e,155,194,14,lime green,#9abf11,154,191,17,yellow green,tinted color,color
+greenblue,#23c48b,35,196,139,tinted green,#1ebb85,30,187,133,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+greenish,#40a368,64,163,104,primary green,#1aa248,26,162,72,primary green,#39a332,57,163,50,green,saturated color,color
+greenish beige,#c9d179,201,209,121,neon lemon lime,#d7e18d,215,225,141,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+greenish blue,#0b8b87,11,139,135,teal,#148f8a,20,143,138,peacock blue,#179e95,23,158,149,green blue,saturated color,color
+greenish brown,#696112,105,97,18,brown olive,#69600c,105,96,12,swamp green,#6f7410,111,116,16,yellow green,dark color,color
+greenish cyan,#2afeb7,42,254,183,aqua fresh,#15f4bd,21,244,189,light mint,#15f4bd,21,244,189,green blue,tinted color,color
+greenish grey,#96ae8d,150,174,141,celadon,#88a581,136,165,129,celadon,#88a581,136,165,129,green,muted color,color
+greenish tan,#bccb7a,188,203,122,aloe,#b8da8e,184,218,142,aloe,#b8da8e,184,218,142,green,pastel,color
+greenish teal,#32bf84,50,191,132,tinted green,#1ebb85,30,187,133,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+greenish turquoise,#00fbb0,0,251,176,aqua fresh,#15f4bd,21,244,189,light mint,#15f4bd,21,244,189,green blue,tinted color,color
+greenish yellow,#cdfd02,205,253,2,neon lime yellow,#c5f622,197,246,34,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+greeny blue,#42b395,66,179,149,mountain meadow,#21b991,33,185,145,bright teal,#18ad89,24,173,137,blue green,saturated color,color
+greeny brown,#696006,105,96,6,brown olive,#69600c,105,96,12,swamp green,#6f7410,111,116,16,yellow green,dark color,color
+greeny grey,#7ea07a,126,160,122,celadon,#88a581,136,165,129,celadon,#88a581,136,165,129,green,muted color,color
+greeny yellow,#c6f808,198,248,8,neon lime yellow,#c5f622,197,246,34,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+grey,#929591,146,149,145,medium grey,#8e908d,142,144,141,medium grey,#848b8d,132,139,141,grey,medium neutral,neutral
+grey blue,#6b8ba4,107,139,164,medium indigo blue,#60809a,96,128,154,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+grey brown,#7f7053,127,112,83,drab olive,#827458,130,116,88,olive,#7e854f,126,133,79,olive,medium neutral,neutral
+grey green,#789b73,120,155,115,asparagus,#6fa460,111,164,96,asparagus,#6fa460,111,164,96,yellow green,saturated color,color
+grey pink,#c3909b,195,144,155,mauve,#c08e96,192,142,150,faded maroon,#c08e96,192,142,150,violet red,make-up color,color
+grey purple,#826d8c,130,109,140,amethyst,#856e8c,133,110,140,purple grey,#856e8c,133,110,140,blue violet,muted color,color
+grey teal,#5e9b8a,94,155,138,petrol,#5e9a8b,94,154,139,muted teal,#64938d,100,147,141,green blue,muted color,color
+grey/blue,#647d8e,100,125,142,medium indigo blue,#60809a,96,128,154,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+grey/green,#86a17d,134,161,125,celadon,#88a581,136,165,129,celadon,#88a581,136,165,129,green,muted color,color
+greyblue,#77a1b5,119,161,181,grey blue,#7ea2b3,126,162,179,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+greyish,#a8a495,168,164,149,light grey,#c1c3bb,193,195,187,light grey,#c1c3bb,193,195,187,grey,light neutral,neutral
+greyish blue,#5e819d,94,129,157,medium indigo blue,#60809a,96,128,154,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+greyish brown,#7a6a4f,122,106,79,drab olive,#827458,130,116,88,olive,#7e854f,126,133,79,olive,medium neutral,neutral
+greyish green,#82a67d,130,166,125,granny smith apple,#74ae74,116,174,116,soft green,#8ddd79,141,221,121,green,tinted color,color
+greyish pink,#c88d94,200,141,148,mauve,#c08e96,192,142,150,faded maroon,#c08e96,192,142,150,violet red,make-up color,color
+greyish purple,#887191,136,113,145,washed purple,#8c6f95,140,111,149,faded grape,#8c6f95,140,111,149,blue violet,muted color,color
+greyish teal,#719f91,113,159,145,petrol,#5e9a8b,94,154,139,muted teal,#64938d,100,147,141,green blue,muted color,color
+gross green,#a0bf16,160,191,22,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+gunmetal,#536267,83,98,103,slate grey,#54646c,84,100,108,charcoal,#495459,73,84,89,grey,dark neutral,neutral
+hazel,#8e7618,142,118,24,cocoa,#896d32,137,109,50,light brown,#816131,129,97,49,brown,medium neutral,neutral
+heather,#a484ac,164,132,172,dusty lavender,#a885aa,168,133,170,dusty lavender,#a885aa,168,133,170,red violet,muted color,color
+heliotrope,#d94ff5,217,79,245,electric magenta,#ce47ce,206,71,206,wine,#980f60,152,15,96,red violet,saturated color,color
+highlighter green,#1bfc06,27,252,6,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+hospital green,#9be5aa,155,229,170,hospital green,#9bf78d,155,247,141,soft green,#8ddd79,141,221,121,green,tinted color,color
+hot green,#25ff29,37,255,41,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+hot magenta,#f504c9,245,4,201,neon magenta,#f504c9,245,4,201,hot pink,#fd039f,253,3,159,violet red,neon color,color
+hot pink,#ff028d,255,2,141,hot pink,#fe0298,254,2,152,hot pink,#fd039f,253,3,159,violet red,neon color,color
+hot purple,#cb00f5,203,0,245,hot fuchsia,#d019ea,208,25,234,primary purple,#8724cd,135,36,205,purple,saturated color,color
+hunter green,#0b4008,11,64,8,hunter green,#06400a,6,64,10,hunter green,#06400a,6,64,10,blue green,dark color,color
+ice,#d6fffa,214,255,250,pale aqua,#c9fefb,201,254,251,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+ice blue,#d7fffe,215,255,254,pale aqua,#c9fefb,201,254,251,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+icky green,#8fae22,143,174,34,icky green,#86a51e,134,165,30,avocado,#86a51e,134,165,30,green yellow,dark color,color
+indian red,#850e04,133,14,4,varsity red,#89070b,137,7,11,brick red,#930e0d,147,14,13,red,dark color,color
+indigo,#380282,56,2,130,dark purple,#41035f,65,3,95,dark purple,#390346,57,3,70,purple,dark color,color
+indigo blue,#3a18b1,58,24,177,bright purple,#4d21bf,77,33,191,bright purple,#5636c4,86,54,196,blue violet,saturated color,color
+iris,#6258c4,98,88,196,iris,#675bcc,103,91,204,bright purple,#5636c4,86,54,196,blue violet,saturated color,color
+irish green,#019529,1,149,41,irish green,#109438,16,148,56,primary green,#39a332,57,163,50,green,saturated color,color
+ivory,#ffffcb,255,255,203,butter yellow,#f7f2ad,247,242,173,butter yellow,#f7f2ad,247,242,173,yellow,pastel,color
+jade,#1fa774,31,167,116,primary green,#1aa248,26,162,72,primary green,#39a332,57,163,50,green,saturated color,color
+jade green,#2baf6a,43,175,106,oz green,#23a76d,35,167,109,tree green,#20b069,32,176,105,blue green,saturated color,color
+jungle green,#048243,4,130,67,spruce,#187632,24,118,50,primary green,#39a332,57,163,50,green,saturated color,color
+kelley green,#009337,0,147,55,irish green,#109438,16,148,56,primary green,#39a332,57,163,50,green,saturated color,color
+kelly green,#02ab2e,2,171,46,primary green,#1aa248,26,162,72,primary green,#39a332,57,163,50,green,saturated color,color
+kermit green,#5cb200,92,178,0,frog green,#5fb118,95,177,24,primary green,#39a332,57,163,50,green,saturated color,color
+key lime,#aeff6e,174,255,110,key lime,#aeff6e,174,255,110,key lime,#aeff6e,174,255,110,green,pastel,color
+khaki,#aaa662,170,166,98,warm olive,#a29a5b,162,154,91,olive,#7e854f,126,133,79,olive,medium neutral,neutral
+khaki green,#728639,114,134,57,asparagus,#6fa460,111,164,96,asparagus,#6fa460,111,164,96,yellow green,saturated color,color
+kiwi,#9cef43,156,239,67,kiwi,#96ee4c,150,238,76,soft green,#8ddd79,141,221,121,green,tinted color,color
+kiwi green,#8ee53f,142,229,63,kiwi,#96ee4c,150,238,76,soft green,#8ddd79,141,221,121,green,tinted color,color
+lavender,#c79fef,199,159,239,lavender,#cba1f9,203,161,249,lilac,#cda7f7,205,167,247,purple,pastel,color
+lavender blue,#8b88f8,139,136,248,hydrangea,#97aafc,151,170,252,hydrangea,#94b5fc,148,181,252,violet blue,pastel,color
+lavender pink,#dd85d7,221,133,215,bright orchid,#d870c5,216,112,197,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+lawn green,#4da409,77,164,9,grass green,#449e07,68,158,7,primary green,#39a332,57,163,50,green,saturated color,color
+leaf,#71aa34,113,170,52,kermit,#77b31a,119,179,26,primary green,#39a332,57,163,50,green,saturated color,color
+leaf green,#5ca904,92,169,4,frog green,#5fb118,95,177,24,primary green,#39a332,57,163,50,green,saturated color,color
+leafy green,#51b73b,81,183,59,leafy green,#44a944,68,169,68,primary green,#39a332,57,163,50,green,saturated color,color
+leather,#ac7434,172,116,52,cognac leather,#a66a36,166,106,54,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+lemon,#fdff52,253,255,82,canary yellow,#fefe6f,254,254,111,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+lemon green,#adf802,173,248,2,acid green,#a6fc02,166,252,2,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+lemon lime,#bffe28,191,254,40,neon lime yellow,#c5f622,197,246,34,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+lemon yellow,#fdff38,253,255,56,gen z yellow,#fcfc2c,252,252,44,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+lichen,#8fb67b,143,182,123,lichen,#8bb479,139,180,121,sage green,#759e6d,117,158,109,blue green,muted color,color
+light aqua,#8cffdb,140,255,219,pale toothpaste,#96fbdb,150,251,219,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+light aquamarine,#7bfdc7,123,253,199,dark mintergreen,#65fbae,101,251,174,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+light beige,#fffeb6,255,254,182,butter yellow,#f7f2ad,247,242,173,butter yellow,#f7f2ad,247,242,173,yellow,pastel,color
+light blue,#95d0fc,149,208,252,french blue,#8ec8fd,142,200,253,hydrangea,#94b5fc,148,181,252,violet blue,pastel,color
+light blue green,#7efbb3,126,251,179,seafoam,#7dfbac,125,251,172,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+light blue grey,#b7c9e2,183,201,226,blue grey,#b1c5dd,177,197,221,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+light bluish green,#76fda8,118,253,168,dark mintergreen,#65fbae,101,251,174,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+light bright green,#53fe5c,83,254,92,blue neon green,#5bfa52,91,250,82,neon lime sherbet,#8cfb7e,140,251,126,blue green,neon color,color
+light brown,#ad8150,173,129,80,warm khaki,#ab824c,171,130,76,mocha,#aa8556,170,133,86,khaki,medium neutral,neutral
+light burgundy,#a8415b,168,65,91,dusty red,#b6455f,182,69,95,dusty red,#b6455f,182,69,95,violet red,muted color,color
+light cyan,#acfffc,172,255,252,pale aqua,#c9fefb,201,254,251,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+light eggplant,#894585,137,69,133,faded eggplant,#8c497d,140,73,125,muted purple,#8c588e,140,88,142,red violet,muted color,color
+light forest green,#4f9153,79,145,83,irish green,#109438,16,148,56,primary green,#39a332,57,163,50,green,saturated color,color
+light gold,#fddc5c,253,220,92,soft yellow,#f6d96a,246,217,106,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+light grass green,#9af764,154,247,100,kiwi,#96ee4c,150,238,76,soft green,#8ddd79,141,221,121,green,tinted color,color
+light green,#96f97b,150,249,123,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+light green blue,#56fca2,86,252,162,dark mintergreen,#65fbae,101,251,174,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+light greenish blue,#63f7b4,99,247,180,dark mintergreen,#65fbae,101,251,174,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+light grey,#d8dcd6,216,220,214,light grey,#c1c3bb,193,195,187,light grey,#c1c3bb,193,195,187,grey,light neutral,neutral
+light grey blue,#9dbcd4,157,188,212,light denim blue,#9dbcd4,157,188,212,light blue,#88c4ec,136,196,236,blue,pastel,color
+light grey green,#b7e1a1,183,225,161,aloe,#b8da8e,184,218,142,aloe,#b8da8e,184,218,142,green,pastel,color
+light indigo,#6d5acf,109,90,207,iris,#675bcc,103,91,204,bright purple,#5636c4,86,54,196,blue violet,saturated color,color
+light khaki,#e6f2a2,230,242,162,neon lemon lime,#d7e18d,215,225,141,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+light lavendar,#efc0fe,239,192,254,pale lavender,#f0c9fd,240,201,253,warm lavender,#f0c9fd,240,201,253,red violet,pastel,color
+light lavender,#dfc5fe,223,197,254,lilac,#d3b5f0,211,181,240,lilac,#cda7f7,205,167,247,purple,pastel,color
+light light blue,#cafffb,202,255,251,pale aqua,#c9fefb,201,254,251,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+light light green,#c8ffb0,200,255,176,aloe,#b8da8e,184,218,142,aloe,#b8da8e,184,218,142,green,pastel,color
+light lilac,#edc8ff,237,200,255,pale lavender,#f0c9fd,240,201,253,warm lavender,#f0c9fd,240,201,253,red violet,pastel,color
+light lime,#aefd6c,174,253,108,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+light lime green,#b9ff66,185,255,102,hospital green,#9bf78d,155,247,141,soft green,#8ddd79,141,221,121,green,tinted color,color
+light magenta,#fa5ff7,250,95,247,faded magenta,#ee42e2,238,66,226,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+light maroon,#a24857,162,72,87,light maroon,#b26368,178,99,104,mauve,#c7717f,199,113,127,red,make-up color,color
+light mauve,#c292a1,194,146,161,blush purple,#c292a1,194,146,161,blush purple,#c292a1,194,146,161,violet red,pastel,color
+light mint,#b6ffbb,182,255,187,mint,#aaf6b9,170,246,185,fresh mint,#aaf6b9,170,246,185,blue green,pastel,color
+light mint green,#a6fbb2,166,251,178,mint,#aaf6b9,170,246,185,fresh mint,#aaf6b9,170,246,185,blue green,pastel,color
+light moss green,#a6c875,166,200,117,fern green,#659c40,101,156,64,stem green,#659c40,101,156,64,yellow green,tinted color,color
+light mustard,#f7d560,247,213,96,soft yellow,#f6d96a,246,217,106,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+light navy,#155084,21,80,132,dark indigo blue,#3b6b93,59,107,147,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+light navy blue,#2e5a88,46,90,136,indigo bright blue,#2a568a,42,86,138,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+light neon green,#4efd54,78,253,84,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+light olive,#acbf69,172,191,105,aloe,#b8da8e,184,218,142,aloe,#b8da8e,184,218,142,green,pastel,color
+light olive green,#a4be5c,164,190,92,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+light orange,#fdaa48,253,170,72,kumquat,#fdab30,253,171,48,navel orange,#fdab30,253,171,48,yellow orange,tinted color,color
+light pastel green,#b2fba5,178,251,165,hospital green,#9bf78d,155,247,141,soft green,#8ddd79,141,221,121,green,tinted color,color
+light pea green,#c4fe82,196,254,130,pistachio,#c0fc85,192,252,133,lime yellow,#c0fc85,192,252,133,green yellow,tinted color,color
+light peach,#ffd8b1,255,216,177,light khaki,#d8ba89,216,186,137,khaki,#c8ac7f,200,172,127,khaki,light neutral,neutral
+light periwinkle,#c1c6fc,193,198,252,light periwinkle,#c1c6fc,193,198,252,lavender,#c1c6fc,193,198,252,blue violet,pastel,color
+light pink,#ffd1df,255,209,223,ballet pink,#fec0da,254,192,218,pink,#fec9de,254,201,222,red,pastel,color
+light plum,#9d5783,157,87,131,faded eggplant,#8c497d,140,73,125,muted purple,#8c588e,140,88,142,red violet,muted color,color
+light purple,#bf77f6,191,119,246,violet grape,#b262f4,178,98,244,grape,#ae62e3,174,98,227,purple,tinted color,color
+light red,#ff474c,255,71,76,watermelon,#fb304f,251,48,79,medium pink,#fb5f87,251,95,135,red,tinted color,color
+light rose,#ffc5cb,255,197,203,coral sunset pink,#fec1cb,254,193,203,coral sunset pink,#fec1cb,254,193,203,orange red,pastel,color
+light royal blue,#3a2efe,58,46,254,ultramarine blue,#0f1fe9,15,31,233,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+light sage,#bcecac,188,236,172,aloe,#b8da8e,184,218,142,aloe,#b8da8e,184,218,142,green,pastel,color
+light salmon,#fea993,254,169,147,light salmon,#fba491,251,164,145,coral,#fc8279,252,130,121,orange red,tinted color,color
+light sea green,#98f6b0,152,246,176,seafoam,#7dfbac,125,251,172,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+light seafoam,#a0febf,160,254,191,seafoam,#7dfbac,125,251,172,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+light seafoam green,#a7ffb5,167,255,181,seafoam,#7dfbac,125,251,172,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+light sky blue,#c6fcff,198,252,255,pale aqua,#c9fefb,201,254,251,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+light tan,#fbeeac,251,238,172,butter yellow,#f7f2ad,247,242,173,butter yellow,#f7f2ad,247,242,173,yellow,pastel,color
+light teal,#90e4c1,144,228,193,mint,#aaf6b9,170,246,185,fresh mint,#aaf6b9,170,246,185,blue green,pastel,color
+light turquoise,#7ef4cc,126,244,204,pale toothpaste,#96fbdb,150,251,219,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+light urple,#b36ff6,179,111,246,violet grape,#b262f4,178,98,244,grape,#ae62e3,174,98,227,purple,tinted color,color
+light violet,#d6b4fc,214,180,252,lavender,#cba1f9,203,161,249,lilac,#cda7f7,205,167,247,purple,pastel,color
+light yellow,#fffe7a,255,254,122,canary yellow,#fefe6f,254,254,111,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+light yellow green,#ccfd7f,204,253,127,neon limeade,#c1f354,193,243,84,neon lemon lime,#c1f354,193,243,84,yellow green,neon color,color
+light yellowish green,#c2ff89,194,255,137,neon limeade,#c1f354,193,243,84,neon lemon lime,#c1f354,193,243,84,yellow green,neon color,color
+lightblue,#7bc8f6,123,200,246,sky blue,#7ec9f9,126,201,249,light blue,#88c4ec,136,196,236,blue,pastel,color
+lighter green,#75fd63,117,253,99,blue neon green,#5bfa52,91,250,82,neon lime sherbet,#8cfb7e,140,251,126,blue green,neon color,color
+lighter purple,#a55af4,165,90,244,violet grape,#b262f4,178,98,244,grape,#ae62e3,174,98,227,purple,tinted color,color
+lightgreen,#76ff7b,118,255,123,blue neon green,#5bfa52,91,250,82,neon lime sherbet,#8cfb7e,140,251,126,blue green,neon color,color
+lightish blue,#3d7afd,61,122,253,painter tape blue,#156af7,21,106,247,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+lightish green,#61e160,97,225,96,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+lightish purple,#a552e6,165,82,230,violet grape,#b262f4,178,98,244,grape,#ae62e3,174,98,227,purple,tinted color,color
+lightish red,#fe2f4a,254,47,74,watermelon,#fb304f,251,48,79,medium pink,#fb5f87,251,95,135,red,tinted color,color
+lilac,#cea2fd,206,162,253,lavender,#cba1f9,203,161,249,lilac,#cda7f7,205,167,247,purple,pastel,color
+liliac,#c48efd,196,142,253,lavender,#cba1f9,203,161,249,lilac,#cda7f7,205,167,247,purple,pastel,color
+lime,#aaff32,170,255,50,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+lime green,#89fe05,137,254,5,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+lime yellow,#d0fe1d,208,254,29,neon lime yellow,#c5f622,197,246,34,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+lipstick,#d5174e,213,23,78,pomegranate,#d90c5c,217,12,92,dark pink,#ed1a51,237,26,81,red,saturated color,color
+lipstick red,#c0022f,192,2,47,dark red,#c40135,196,1,53,primary red,#da0128,218,1,40,red,saturated color,color
+macaroni and cheese,#efb435,239,180,53,mac and cheese,#f9b311,249,179,17,golden yellow,#f9b311,249,179,17,yellow orange,saturated color,color
+magenta,#c20078,194,0,120,fuchsia,#c20078,194,0,120,wine,#980f60,152,15,96,red violet,saturated color,color
+mahogany,#4a0100,74,1,0,dark burgundy,#440102,68,1,2,maroon,#62152f,98,21,47,red violet,dark color,color
+maize,#f4d054,244,208,84,soft yellow,#f6d96a,246,217,106,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+mango,#ffa62b,255,166,43,kumquat,#fdab30,253,171,48,navel orange,#fdab30,253,171,48,yellow orange,tinted color,color
+manilla,#fffa86,255,250,134,banana yellow,#fffd82,255,253,130,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+marigold,#fcc006,252,192,6,goldenrod,#fbc20a,251,194,10,dandelion,#fbc20a,251,194,10,orange yellow,saturated color,color
+marine,#042e60,4,46,96,indigo,#033c72,3,60,114,navy,#031656,3,22,86,blue,dark neutral,neutral
+marine blue,#01386a,1,56,106,indigo,#033c72,3,60,114,navy,#031656,3,22,86,blue,dark neutral,neutral
+maroon,#650021,101,0,33,burgundy,#680029,104,0,41,maroon,#62152f,98,21,47,red violet,dark color,color
+mauve,#ae7181,174,113,129,mauve,#c08e96,192,142,150,faded maroon,#c08e96,192,142,150,violet red,make-up color,color
+medium blue,#2c6fbb,44,111,187,soft blue,#2d6ebd,45,110,189,bright blue,#2078c7,32,120,199,blue,tinted color,color
+medium brown,#7f5112,127,81,18,coffee,#764710,118,71,16,light brown,#816131,129,97,49,brown,medium neutral,neutral
+medium green,#39ad48,57,173,72,leafy green,#44a944,68,169,68,primary green,#39a332,57,163,50,green,saturated color,color
+medium grey,#7d7f7c,125,127,124,medium grey,#8e908d,142,144,141,medium grey,#848b8d,132,139,141,grey,medium neutral,neutral
+medium pink,#f36196,243,97,150,rosy pink,#fb78a6,251,120,166,medium pink,#fb5f87,251,95,135,red,tinted color,color
+medium purple,#9e43a2,158,67,162,barney,#9b3ca0,155,60,160,primary purple,#8724cd,135,36,205,purple,saturated color,color
+melon,#ff7855,255,120,85,melon,#ff7351,255,115,81,melon,#fe7f4e,254,127,78,red orange,tinted color,color
+merlot,#730039,115,0,57,burgundy,#680029,104,0,41,maroon,#62152f,98,21,47,red violet,dark color,color
+metallic blue,#4f738e,79,115,142,dark indigo blue,#3b6b93,59,107,147,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+mid blue,#276ab3,39,106,179,soft blue,#2d6ebd,45,110,189,bright blue,#2078c7,32,120,199,blue,tinted color,color
+mid green,#50a747,80,167,71,leafy green,#44a944,68,169,68,primary green,#39a332,57,163,50,green,saturated color,color
+midnight,#03012d,3,1,45,navy,#040937,4,9,55,navy,#031656,3,22,86,blue,dark neutral,neutral
+midnight blue,#020035,2,0,53,navy,#040937,4,9,55,navy,#031656,3,22,86,blue,dark neutral,neutral
+midnight purple,#280137,40,1,55,eggplant,#35043c,53,4,60,dark purple,#390346,57,3,70,purple,dark color,color
+military green,#667c3e,102,124,62,medium army green,#6f7a39,111,122,57,olive,#7e854f,126,133,79,olive,medium neutral,neutral
+milk chocolate,#7f4e1e,127,78,30,coffee,#764710,118,71,16,light brown,#816131,129,97,49,brown,medium neutral,neutral
+mint,#9ffeb0,159,254,176,seafoam,#7dfbac,125,251,172,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+mint green,#8fff9f,143,255,159,seafoam,#7dfbac,125,251,172,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+minty green,#0bf77d,11,247,125,lime,#0ff684,15,246,132,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+mocha,#9d7651,157,118,81,caramel,#a17a51,161,122,81,mocha,#aa8556,170,133,86,khaki,medium neutral,neutral
+moss,#769958,118,153,88,grey green,#75955d,117,149,93,olive,#7e854f,126,133,79,olive,medium neutral,neutral
+moss green,#658b38,101,139,56,fern green,#659c40,101,156,64,stem green,#659c40,101,156,64,yellow green,tinted color,color
+mossy green,#638b27,99,139,39,fern green,#659c40,101,156,64,stem green,#659c40,101,156,64,yellow green,tinted color,color
+mud,#735c12,115,92,18,mud,#776108,119,97,8,brown,#633a0b,99,58,11,brown,dark neutral,neutral
+mud brown,#60460f,96,70,15,dark olive,#4c4d10,76,77,16,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+mud green,#606602,96,102,2,dark olive,#4c4d10,76,77,16,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+muddy brown,#886806,136,104,6,whiskey brown,#a47204,164,114,4,yellow ochre,#a47204,164,114,4,yellow ochre,painterly neutral,neutral
+muddy green,#657432,101,116,50,medium army green,#6f7a39,111,122,57,olive,#7e854f,126,133,79,olive,medium neutral,neutral
+muddy yellow,#bfac05,191,172,5,chartreuse,#b6a306,182,163,6,chartreuse,#b6a306,182,163,6,green yellow,muted color,color
+mulberry,#920a4e,146,10,78,malbec,#90074b,144,7,75,wine,#980f60,152,15,96,red violet,saturated color,color
+murky green,#6c7a0e,108,122,14,camo,#75842e,117,132,46,swamp green,#6f7410,111,116,16,yellow green,dark color,color
+mushroom,#ba9e88,186,158,136,mushroom khaki,#ba9e88,186,158,136,khaki,#c8ac7f,200,172,127,khaki,light neutral,neutral
+mustard,#ceb301,206,179,1,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+mustard brown,#ac7e04,172,126,4,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+mustard green,#a8b504,168,181,4,bright olive,#afbd07,175,189,7,warm olive,#a4b90c,164,185,12,yellow green,saturated color,color
+mustard yellow,#d2bd0a,210,189,10,primary yellow,#d1b90b,209,185,11,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+muted blue,#3b719f,59,113,159,dark indigo blue,#3b6b93,59,107,147,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+muted green,#5fa052,95,160,82,fern green,#659c40,101,156,64,stem green,#659c40,101,156,64,yellow green,tinted color,color
+muted pink,#d1768f,209,118,143,blush,#d67489,214,116,137,mauve,#c7717f,199,113,127,red,make-up color,color
+muted purple,#805b87,128,91,135,washed amethyst,#805b87,128,91,135,muted purple,#8c588e,140,88,142,red violet,muted color,color
+nasty green,#70b23f,112,178,63,frog green,#5fb118,95,177,24,primary green,#39a332,57,163,50,green,saturated color,color
+navy,#01153e,1,21,62,navy,#040937,4,9,55,navy,#031656,3,22,86,blue,dark neutral,neutral
+navy blue,#001146,0,17,70,navy,#040937,4,9,55,navy,#031656,3,22,86,blue,dark neutral,neutral
+navy green,#35530a,53,83,10,deep green,#1b5715,27,87,21,dark green,#1b5715,27,87,21,green,dark color,color
+neon blue,#04d9ff,4,217,255,neon blue,#03d2fe,3,210,254,neon blue,#03d2fe,3,210,254,blue,neon color,color
+neon green,#0cff0c,12,255,12,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+neon pink,#fe019a,254,1,154,hot pink,#fe0298,254,2,152,hot pink,#fd039f,253,3,159,violet red,neon color,color
+neon purple,#bc13fe,188,19,254,neon purple,#bc13fe,188,19,254,neon purple,#bc13fe,188,19,254,purple,neon color,color
+neon red,#ff073a,255,7,58,neon red,#ff073a,255,7,58,neon red,#ff073a,255,7,58,red,neon color,color
+neon yellow,#cfff04,207,255,4,neon lime yellow,#c5f622,197,246,34,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+nice blue,#107ab0,16,122,176,soft blue,#2d6ebd,45,110,189,bright blue,#2078c7,32,120,199,blue,tinted color,color
+night blue,#040348,4,3,72,navy,#040937,4,9,55,navy,#031656,3,22,86,blue,dark neutral,neutral
+ocean,#017b92,1,123,146,ocean teal,#037e90,3,126,144,ocean teal,#037e90,3,126,144,green blue,muted color,color
+ocean blue,#03719c,3,113,156,ocean blue,#187095,24,112,149,dark aqua,#156588,21,101,136,green blue,dark color,color
+ocean green,#3d9973,61,153,115,emerald green,#3da474,61,164,116,aquatic green,#3da474,61,164,116,green,saturated color,color
+ocher,#bf9b0c,191,155,12,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+ochre,#bf9005,191,144,5,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+ocre,#c69c04,198,156,4,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+off blue,#5684ae,86,132,174,faded blue,#4d84c3,77,132,195,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+off green,#6ba353,107,163,83,fern green,#659c40,101,156,64,stem green,#659c40,101,156,64,yellow green,tinted color,color
+off white,#ffffe4,255,255,228,butter yellow,#f7f2ad,247,242,173,butter yellow,#f7f2ad,247,242,173,yellow,pastel,color
+off yellow,#f1f33f,241,243,63,gen z yellow,#fcfc2c,252,252,44,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+old pink,#c77986,199,121,134,dusty rose,#c47581,196,117,129,mauve,#c7717f,199,113,127,red,make-up color,color
+old rose,#c87f89,200,127,137,dusty rose,#c47581,196,117,129,mauve,#c7717f,199,113,127,red,make-up color,color
+olive,#6e750e,110,117,14,yellow olive,#727e04,114,126,4,swamp green,#6f7410,111,116,16,yellow green,dark color,color
+olive brown,#645403,100,84,3,mud,#776108,119,97,8,brown,#633a0b,99,58,11,brown,dark neutral,neutral
+olive drab,#6f7632,111,118,50,medium army green,#6f7a39,111,122,57,olive,#7e854f,126,133,79,olive,medium neutral,neutral
+olive green,#677a04,103,122,4,army green,#6a7d14,106,125,20,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+olive yellow,#c2b709,194,183,9,chartreuse,#b6a306,182,163,6,chartreuse,#b6a306,182,163,6,green yellow,muted color,color
+orange,#f97306,249,115,6,orange,#fa7806,250,120,6,blood orange,#fc6504,252,101,4,orange,saturated color,color
+orange brown,#be6400,190,100,0,copper,#b55f07,181,95,7,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+orange pink,#ff6f52,255,111,82,melon,#ff7351,255,115,81,melon,#fe7f4e,254,127,78,red orange,tinted color,color
+orange red,#fd411e,253,65,30,safety orange,#f73d13,247,61,19,rorange,#f12c11,241,44,17,orange red,saturated color,color
+orange yellow,#ffad01,255,173,1,mac and cheese,#f9b311,249,179,17,golden yellow,#f9b311,249,179,17,yellow orange,saturated color,color
+orangeish,#fd8d49,253,141,73,tangelo,#fd8c4b,253,140,75,melon,#fe7f4e,254,127,78,red orange,tinted color,color
+orangered,#fe420f,254,66,15,safety orange,#f73d13,247,61,19,rorange,#f12c11,241,44,17,orange red,saturated color,color
+orangey brown,#b16002,177,96,2,copper,#b55f07,181,95,7,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+orangey red,#fa4224,250,66,36,safety orange,#f73d13,247,61,19,rorange,#f12c11,241,44,17,orange red,saturated color,color
+orangey yellow,#fdb915,253,185,21,mac and cheese,#f9b311,249,179,17,golden yellow,#f9b311,249,179,17,yellow orange,saturated color,color
+orangish,#fc824a,252,130,74,tangelo,#fd8c4b,253,140,75,melon,#fe7f4e,254,127,78,red orange,tinted color,color
+orangish brown,#b25f03,178,95,3,copper,#b55f07,181,95,7,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+orangish red,#f43605,244,54,5,safety orange,#f73d13,247,61,19,rorange,#f12c11,241,44,17,orange red,saturated color,color
+orchid,#c875c4,200,117,196,bright orchid,#d870c5,216,112,197,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+pale,#fff9d0,255,249,208,butter yellow,#f7f2ad,247,242,173,butter yellow,#f7f2ad,247,242,173,yellow,pastel,color
+pale aqua,#b8ffeb,184,255,235,pale toothpaste,#96fbdb,150,251,219,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+pale blue,#d0fefe,208,254,254,pale aqua,#c9fefb,201,254,251,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+pale brown,#b1916e,177,145,110,medium khaki,#ae9367,174,147,103,mocha,#aa8556,170,133,86,khaki,medium neutral,neutral
+pale cyan,#b7fffa,183,255,250,pale aqua,#c9fefb,201,254,251,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+pale gold,#fdde6c,253,222,108,soft yellow,#f6d96a,246,217,106,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+pale green,#c7fdb5,199,253,181,pastel neon green,#cdfdba,205,253,186,neon lime sherbet,#8cfb7e,140,251,126,blue green,neon color,color
+pale grey,#fdfdfe,253,253,254,white,#fefefe,254,254,254,white,#fefefe,254,254,254,white,light neutral,neutral
+pale lavender,#eecffe,238,207,254,pale lavender,#f0c9fd,240,201,253,warm lavender,#f0c9fd,240,201,253,red violet,pastel,color
+pale light green,#b1fc99,177,252,153,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+pale lilac,#e4cbff,228,203,255,lilac,#d3b5f0,211,181,240,lilac,#cda7f7,205,167,247,purple,pastel,color
+pale lime,#befd73,190,253,115,pistachio,#c0fc85,192,252,133,lime yellow,#c0fc85,192,252,133,green yellow,tinted color,color
+pale lime green,#b1ff65,177,255,101,hospital green,#9bf78d,155,247,141,soft green,#8ddd79,141,221,121,green,tinted color,color
+pale magenta,#d767ad,215,103,173,bright orchid,#d870c5,216,112,197,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+pale mauve,#fed0fc,254,208,252,ballet pink,#fec0da,254,192,218,pink,#fec9de,254,201,222,red,pastel,color
+pale olive,#b9cc81,185,204,129,aloe,#b8da8e,184,218,142,aloe,#b8da8e,184,218,142,green,pastel,color
+pale olive green,#b1d27b,177,210,123,neon lime yellow,#c5f622,197,246,34,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+pale orange,#ffa756,255,167,86,kumquat,#fdab30,253,171,48,navel orange,#fdab30,253,171,48,yellow orange,tinted color,color
+pale peach,#ffe5ad,255,229,173,cantaloupe,#ffe5ad,255,229,173,peach,#ffc287,255,194,135,red orange,pastel,color
+pale pink,#ffcfdc,255,207,220,coral sunset pink,#fec1cb,254,193,203,coral sunset pink,#fec1cb,254,193,203,orange red,pastel,color
+pale purple,#b790d4,183,144,212,lilac,#d3b5f0,211,181,240,lilac,#cda7f7,205,167,247,purple,pastel,color
+pale red,#d9544d,217,84,77,faded red,#cd4c4c,205,76,76,washed red,#c13c39,193,60,57,red,muted color,color
+pale rose,#fdc1c5,253,193,197,coral sunset pink,#fec1cb,254,193,203,coral sunset pink,#fec1cb,254,193,203,orange red,pastel,color
+pale salmon,#ffb19a,255,177,154,light salmon,#fba491,251,164,145,coral,#fc8279,252,130,121,orange red,tinted color,color
+pale sky blue,#bdf6fe,189,246,254,robin egg blue,#93f0fc,147,240,252,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+pale teal,#82cbb2,130,203,178,light cyan,#7edec6,126,222,198,aqua,#4cd4b9,76,212,185,blue green,tinted color,color
+pale turquoise,#a5fbd5,165,251,213,seafoam,#7dfbac,125,251,172,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+pale violet,#ceaefa,206,174,250,lavender,#cba1f9,203,161,249,lilac,#cda7f7,205,167,247,purple,pastel,color
+pale yellow,#ffff84,255,255,132,banana yellow,#fffd82,255,253,130,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+parchment,#fefcaf,254,252,175,pale yellow,#fef7a2,254,247,162,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+pastel blue,#a2bffe,162,191,254,hydrangea,#97aafc,151,170,252,hydrangea,#94b5fc,148,181,252,violet blue,pastel,color
+pastel green,#b0ff9d,176,255,157,hospital green,#9bf78d,155,247,141,soft green,#8ddd79,141,221,121,green,tinted color,color
+pastel orange,#ff964f,255,150,79,tangelo,#fd8c4b,253,140,75,melon,#fe7f4e,254,127,78,red orange,tinted color,color
+pastel pink,#ffbacd,255,186,205,ballet pink,#fec0da,254,192,218,pink,#fec9de,254,201,222,red,pastel,color
+pastel purple,#caa0ff,202,160,255,lavender,#cba1f9,203,161,249,lilac,#cda7f7,205,167,247,purple,pastel,color
+pastel red,#db5856,219,88,86,faded red,#cd4c4c,205,76,76,washed red,#c13c39,193,60,57,red,muted color,color
+pastel yellow,#fffe71,255,254,113,canary yellow,#fefe6f,254,254,111,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+pea,#a4bf20,164,191,32,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+pea green,#8eab12,142,171,18,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+pea soup,#929901,146,153,1,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+pea soup green,#94a617,148,166,23,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+peach,#ffb07c,255,176,124,apricot,#ffb074,255,176,116,peach,#ffc287,255,194,135,red orange,pastel,color
+peachy pink,#ff9a8a,255,154,138,light salmon,#fba491,251,164,145,coral,#fc8279,252,130,121,orange red,tinted color,color
+peacock blue,#016795,1,103,149,ocean blue,#187095,24,112,149,dark aqua,#156588,21,101,136,green blue,dark color,color
+pear,#cbf85f,203,248,95,neon limeade,#c1f354,193,243,84,neon lemon lime,#c1f354,193,243,84,yellow green,neon color,color
+periwinkle,#8e82fe,142,130,254,hydrangea,#97aafc,151,170,252,hydrangea,#94b5fc,148,181,252,violet blue,pastel,color
+periwinkle blue,#8f99fb,143,153,251,dark periwinkle,#7683ec,118,131,236,cornflower,#7683ec,118,131,236,blue violet,tinted color,color
+perrywinkle,#8f8ce7,143,140,231,dark periwinkle,#7683ec,118,131,236,cornflower,#7683ec,118,131,236,blue violet,tinted color,color
+petrol,#005f6a,0,95,106,dark malachite,#01575b,1,87,91,dark blue green,#056563,5,101,99,blue green,dark color,color
+pig pink,#e78ea5,231,142,165,blush,#d67489,214,116,137,mauve,#c7717f,199,113,127,red,make-up color,color
+pine,#2b5d34,43,93,52,deep green,#1b5715,27,87,21,dark green,#1b5715,27,87,21,green,dark color,color
+pine green,#0a481e,10,72,30,hunter green,#06400a,6,64,10,hunter green,#06400a,6,64,10,blue green,dark color,color
+pink,#ff81c0,255,129,192,pinky pink,#fe82c6,254,130,198,pink carnation,#ed52aa,237,82,170,violet red,tinted color,color
+pink purple,#db4bda,219,75,218,faded magenta,#ee42e2,238,66,226,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+pink red,#f5054f,245,5,79,watermelon,#fb304f,251,48,79,medium pink,#fb5f87,251,95,135,red,tinted color,color
+pink/purple,#ef1de7,239,29,231,bright magenta,#ef1de7,239,29,231,pink carnation,#ed52aa,237,82,170,violet red,tinted color,color
+pinkish,#d46a7e,212,106,126,blush,#d67489,214,116,137,mauve,#c7717f,199,113,127,red,make-up color,color
+pinkish brown,#b17261,177,114,97,brownish pink,#a27162,162,113,98,brownish pink,#a27162,162,113,98,violet red,make-up color,color
+pinkish grey,#c8aca9,200,172,169,mauve,#c08e96,192,142,150,faded maroon,#c08e96,192,142,150,violet red,make-up color,color
+pinkish orange,#ff724c,255,114,76,melon,#ff7351,255,115,81,melon,#fe7f4e,254,127,78,red orange,tinted color,color
+pinkish purple,#d648d7,214,72,215,faded magenta,#ee42e2,238,66,226,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+pinkish red,#f10c45,241,12,69,strawberry,#f9234b,249,35,75,dark pink,#ed1a51,237,26,81,red,saturated color,color
+pinkish tan,#d99b82,217,155,130,peach blush,#d99b82,217,155,130,peach blush,#d99b82,217,155,130,orange red,make-up color,color
+pinky,#fc86aa,252,134,170,rosy pink,#fb78a6,251,120,166,medium pink,#fb5f87,251,95,135,red,tinted color,color
+pinky purple,#c94cbe,201,76,190,electric magenta,#ce47ce,206,71,206,wine,#980f60,152,15,96,red violet,saturated color,color
+pinky red,#fc2647,252,38,71,strawberry,#f9234b,249,35,75,dark pink,#ed1a51,237,26,81,red,saturated color,color
+piss yellow,#ddd618,221,214,24,neon yellow,#f1ed5b,241,237,91,neon yellow,#f6f489,246,244,137,yellow,neon color,color
+pistachio,#c0fa8b,192,250,139,pistachio,#c0fc85,192,252,133,lime yellow,#c0fc85,192,252,133,green yellow,tinted color,color
+plum,#580f41,88,15,65,claret,#6d042a,109,4,42,wine,#980f60,152,15,96,red violet,saturated color,color
+plum purple,#4e0550,78,5,80,dark purple,#41035f,65,3,95,dark purple,#390346,57,3,70,purple,dark color,color
+poison green,#40fd14,64,253,20,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+poo,#8f7303,143,115,3,mud,#776108,119,97,8,brown,#633a0b,99,58,11,brown,dark neutral,neutral
+poo brown,#885f01,136,95,1,warm brown,#8a5a04,138,90,4,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+poop,#7f5e00,127,94,0,warm brown,#8a5a04,138,90,4,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+poop brown,#7a5901,122,89,1,warm brown,#8a5a04,138,90,4,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+poop green,#6f7c00,111,124,0,army green,#6a7d14,106,125,20,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+powder blue,#b1d1fc,177,209,252,hydrangea,#97aafc,151,170,252,hydrangea,#94b5fc,148,181,252,violet blue,pastel,color
+powder pink,#ffb2d0,255,178,208,ballet pink,#fec0da,254,192,218,pink,#fec9de,254,201,222,red,pastel,color
+primary blue,#0804f9,8,4,249,ultramarine blue,#0f1fe9,15,31,233,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+prussian blue,#004577,0,69,119,indigo,#033c72,3,60,114,navy,#031656,3,22,86,blue,dark neutral,neutral
+puce,#a57e52,165,126,82,caramel,#a17a51,161,122,81,mocha,#aa8556,170,133,86,khaki,medium neutral,neutral
+puke,#a5a502,165,165,2,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+puke brown,#947706,148,119,6,chartreuse,#b6a306,182,163,6,chartreuse,#b6a306,182,163,6,green yellow,muted color,color
+puke green,#9aae07,154,174,7,avocado,#9ab611,154,182,17,warm olive,#a4b90c,164,185,12,yellow green,saturated color,color
+puke yellow,#c2be0e,194,190,14,primary yellow,#d1b90b,209,185,11,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+pumpkin,#e17701,225,119,1,light pumpkin,#e17701,225,119,1,light pumpkin,#f08504,240,133,4,orange,tinted color,color
+pumpkin orange,#fb7d07,251,125,7,orange,#fa7806,250,120,6,blood orange,#fc6504,252,101,4,orange,saturated color,color
+pure blue,#0203e2,2,3,226,ultramarine blue,#0f1fe9,15,31,233,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+purple,#7e1e9c,126,30,156,ultraviolet,#9613df,150,19,223,primary purple,#8724cd,135,36,205,purple,saturated color,color
+purple blue,#632de9,99,45,233,primary purple,#6128e2,97,40,226,primary purple,#8724cd,135,36,205,purple,saturated color,color
+purple brown,#673a3f,103,58,63,faded burgundy,#73424d,115,66,77,maroon,#62152f,98,21,47,red violet,dark color,color
+purple grey,#866f85,134,111,133,amethyst,#856e8c,133,110,140,purple grey,#856e8c,133,110,140,blue violet,muted color,color
+purple pink,#e03fd8,224,63,216,hot fuchsia,#d019ea,208,25,234,primary purple,#8724cd,135,36,205,purple,saturated color,color
+purple red,#990147,153,1,71,raspberry,#a50145,165,1,69,raspberry,#a50145,165,1,69,violet red,dark color,color
+purple/blue,#5d21d0,93,33,208,primary purple,#6128e2,97,40,226,primary purple,#8724cd,135,36,205,purple,saturated color,color
+purple/pink,#d725de,215,37,222,hot fuchsia,#d019ea,208,25,234,primary purple,#8724cd,135,36,205,purple,saturated color,color
+purpleish,#98568d,152,86,141,plum,#9f62a1,159,98,161,grape,#ae62e3,174,98,227,purple,tinted color,color
+purpleish blue,#6140ef,97,64,239,prince purple,#5b3cdd,91,60,221,cobalt purple,#5b3cdd,91,60,221,violet blue,saturated color,color
+purpleish pink,#df4ec8,223,78,200,faded magenta,#ee42e2,238,66,226,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+purpley,#8756e4,135,86,228,violet grape,#b262f4,178,98,244,grape,#ae62e3,174,98,227,purple,tinted color,color
+purpley blue,#5f34e7,95,52,231,primary purple,#6128e2,97,40,226,primary purple,#8724cd,135,36,205,purple,saturated color,color
+purpley grey,#947e94,148,126,148,amethyst,#856e8c,133,110,140,purple grey,#856e8c,133,110,140,blue violet,muted color,color
+purpley pink,#c83cb9,200,60,185,electric magenta,#ce47ce,206,71,206,wine,#980f60,152,15,96,red violet,saturated color,color
+purplish,#94568c,148,86,140,sangria,#895393,137,83,147,medium lavender,#8a5891,138,88,145,purple,muted color,color
+purplish blue,#601ef9,96,30,249,primary purple,#6128e2,97,40,226,primary purple,#8724cd,135,36,205,purple,saturated color,color
+purplish brown,#6b4247,107,66,71,faded burgundy,#73424d,115,66,77,maroon,#62152f,98,21,47,red violet,dark color,color
+purplish grey,#7a687f,122,104,127,amethyst,#856e8c,133,110,140,purple grey,#856e8c,133,110,140,blue violet,muted color,color
+purplish pink,#ce5dae,206,93,174,bright orchid,#d870c5,216,112,197,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+purplish red,#b0054b,176,5,75,raspberry,#a50145,165,1,69,raspberry,#a50145,165,1,69,violet red,dark color,color
+purply,#983fb2,152,63,178,barney,#9b3ca0,155,60,160,primary purple,#8724cd,135,36,205,purple,saturated color,color
+purply blue,#661aee,102,26,238,primary purple,#6128e2,97,40,226,primary purple,#8724cd,135,36,205,purple,saturated color,color
+purply pink,#f075e6,240,117,230,bright orchid,#d870c5,216,112,197,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+putty,#beae8a,190,174,138,putty,#bba885,187,168,133,khaki,#c8ac7f,200,172,127,khaki,light neutral,neutral
+racing green,#014600,1,70,0,hunter green,#06400a,6,64,10,hunter green,#06400a,6,64,10,blue green,dark color,color
+radioactive green,#2cfa1f,44,250,31,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+raspberry,#b00149,176,1,73,raspberry,#a50145,165,1,69,raspberry,#a50145,165,1,69,violet red,dark color,color
+raw sienna,#9a6200,154,98,0,warm brown,#8a5a04,138,90,4,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+raw umber,#a75e09,167,94,9,russet brown,#b15d24,177,93,36,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+really light blue,#d4ffff,212,255,255,pale aqua,#c9fefb,201,254,251,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+red,#e50000,229,0,0,orange red,#e0000c,224,0,12,rorange,#f12c11,241,44,17,orange red,saturated color,color
+red brown,#8b2e16,139,46,22,umber,#953308,149,51,8,umber,#953308,149,51,8,sienna,painterly neutral,neutral
+red orange,#fd3c06,253,60,6,safety orange,#f73d13,247,61,19,rorange,#f12c11,241,44,17,orange red,saturated color,color
+red pink,#fa2a55,250,42,85,strawberry,#f9234b,249,35,75,dark pink,#ed1a51,237,26,81,red,saturated color,color
+red purple,#820747,130,7,71,malbec,#90074b,144,7,75,wine,#980f60,152,15,96,red violet,saturated color,color
+red violet,#9e0168,158,1,104,dark fuchsia,#9c025c,156,2,92,wine,#980f60,152,15,96,red violet,saturated color,color
+red wine,#8c0034,140,0,52,varsity red,#89070b,137,7,11,brick red,#930e0d,147,14,13,red,dark color,color
+reddish,#c44240,196,66,64,faded red,#cd4c4c,205,76,76,washed red,#c13c39,193,60,57,red,muted color,color
+reddish brown,#7f2b0a,127,43,10,umber,#953308,149,51,8,umber,#953308,149,51,8,sienna,painterly neutral,neutral
+reddish grey,#997570,153,117,112,brownish pink,#a27162,162,113,98,brownish pink,#a27162,162,113,98,violet red,make-up color,color
+reddish orange,#f8481c,248,72,28,safety orange,#f73d13,247,61,19,rorange,#f12c11,241,44,17,orange red,saturated color,color
+reddish pink,#fe2c54,254,44,84,strawberry,#f9234b,249,35,75,dark pink,#ed1a51,237,26,81,red,saturated color,color
+reddish purple,#910951,145,9,81,malbec,#90074b,144,7,75,wine,#980f60,152,15,96,red violet,saturated color,color
+reddy brown,#6e1005,110,16,5,burnt umber,#711c03,113,28,3,brown,#633a0b,99,58,11,brown,dark neutral,neutral
+rich blue,#021bf9,2,27,249,ultramarine blue,#0f1fe9,15,31,233,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+rich purple,#720058,114,0,88,boysenberry,#730454,115,4,84,maroon,#62152f,98,21,47,red violet,dark color,color
+robin egg blue,#8af1fe,138,241,254,robin egg blue,#93f0fc,147,240,252,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+robin's egg,#6dedfd,109,237,253,robin egg blue,#93f0fc,147,240,252,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+robin's egg blue,#98eff9,152,239,249,robin egg blue,#93f0fc,147,240,252,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+rosa,#fe86a4,254,134,164,rosy pink,#fb78a6,251,120,166,medium pink,#fb5f87,251,95,135,red,tinted color,color
+rose,#cf6275,207,98,117,blush,#d67489,214,116,137,mauve,#c7717f,199,113,127,red,make-up color,color
+rose pink,#f7879a,247,135,154,pinky coral,#fa8094,250,128,148,medium pink,#fb5f87,251,95,135,red,tinted color,color
+rose red,#be013c,190,1,60,dark red,#c40135,196,1,53,primary red,#da0128,218,1,40,red,saturated color,color
+rosy pink,#f6688e,246,104,142,bubblegum pink,#fa6294,250,98,148,medium pink,#fb5f87,251,95,135,red,tinted color,color
+rouge,#ab1239,171,18,57,rusty russet,#ac2218,172,34,24,washed red,#c13c39,193,60,57,red,muted color,color
+royal,#0c1793,12,23,147,cobalt,#040870,4,8,112,navy,#031656,3,22,86,blue,dark neutral,neutral
+royal blue,#0504aa,5,4,170,cobalt medium,#141ca5,20,28,165,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+royal purple,#4b006e,75,0,110,dark purple,#41035f,65,3,95,dark purple,#390346,57,3,70,purple,dark color,color
+ruby,#ca0147,202,1,71,ruby slipper,#ca0154,202,1,84,ruby slipper,#ca0154,202,1,84,violet red,saturated color,color
+russet,#a13905,161,57,5,umber,#953308,149,51,8,umber,#953308,149,51,8,sienna,painterly neutral,neutral
+rust,#a83c09,168,60,9,umber,#953308,149,51,8,umber,#953308,149,51,8,sienna,painterly neutral,neutral
+rust brown,#8b3103,139,49,3,umber,#953308,149,51,8,umber,#953308,149,51,8,sienna,painterly neutral,neutral
+rust orange,#c45508,196,85,8,burnt orange,#c85005,200,80,5,pumpkin spice,#c85005,200,80,5,orange,dark color,color
+rust red,#aa2704,170,39,4,rusty russet,#ac2218,172,34,24,washed red,#c13c39,193,60,57,red,muted color,color
+rusty orange,#cd5909,205,89,9,burnt orange,#c85005,200,80,5,pumpkin spice,#c85005,200,80,5,orange,dark color,color
+rusty red,#af2f0d,175,47,13,rusty russet,#ac2218,172,34,24,washed red,#c13c39,193,60,57,red,muted color,color
+saffron,#feb209,254,178,9,mac and cheese,#f9b311,249,179,17,golden yellow,#f9b311,249,179,17,yellow orange,saturated color,color
+sage,#87ae73,135,174,115,asparagus,#6fa460,111,164,96,asparagus,#6fa460,111,164,96,yellow green,saturated color,color
+sage green,#88b378,136,179,120,lichen,#8bb479,139,180,121,sage green,#759e6d,117,158,109,blue green,muted color,color
+salmon,#ff796c,255,121,108,coral,#fe7c7c,254,124,124,coral,#fc8279,252,130,121,orange red,tinted color,color
+salmon pink,#fe7b7c,254,123,124,coral,#fe7c7c,254,124,124,coral,#fc8279,252,130,121,orange red,tinted color,color
+sand,#e2ca76,226,202,118,soft yellow,#f6d96a,246,217,106,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+sand brown,#cba560,203,165,96,light mustard,#c9a55d,201,165,93,light mustard,#c9a55d,201,165,93,yellow,muted color,color
+sand yellow,#fce166,252,225,102,soft yellow,#f6d96a,246,217,106,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+sandstone,#c9ae74,201,174,116,light khaki,#d8ba89,216,186,137,khaki,#c8ac7f,200,172,127,khaki,light neutral,neutral
+sandy,#f1da7a,241,218,122,soft yellow,#f6d96a,246,217,106,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+sandy brown,#c4a661,196,166,97,camel,#bfa26a,191,162,106,khaki,#c8ac7f,200,172,127,khaki,light neutral,neutral
+sandy yellow,#fdee73,253,238,115,sunshine,#fae23a,250,226,58,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+sap green,#5c8b15,92,139,21,fern green,#659c40,101,156,64,stem green,#659c40,101,156,64,yellow green,tinted color,color
+sapphire,#2138ab,33,56,171,cobalt medium,#141ca5,20,28,165,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+scarlet,#be0119,190,1,25,orange red,#e0000c,224,0,12,rorange,#f12c11,241,44,17,orange red,saturated color,color
+sea,#3c9992,60,153,146,teal,#148f8a,20,143,138,peacock blue,#179e95,23,158,149,green blue,saturated color,color
+sea blue,#047495,4,116,149,ocean blue,#187095,24,112,149,dark aqua,#156588,21,101,136,green blue,dark color,color
+sea green,#53fca1,83,252,161,dark mintergreen,#65fbae,101,251,174,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+seafoam,#80f9ad,128,249,173,seafoam,#7dfbac,125,251,172,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+seafoam blue,#78d1b6,120,209,182,greyed aqua,#78d1b6,120,209,182,aqua,#4cd4b9,76,212,185,blue green,tinted color,color
+seafoam green,#7af9ab,122,249,171,seafoam,#7dfbac,125,251,172,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+seaweed,#18d17b,24,209,123,bright mint,#1fd37c,31,211,124,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+seaweed green,#35ad6b,53,173,107,oz green,#23a76d,35,167,109,tree green,#20b069,32,176,105,blue green,saturated color,color
+sepia,#985e2b,152,94,43,cognac leather,#a66a36,166,106,54,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+shamrock,#01b44c,1,180,76,kelly green,#1dbb64,29,187,100,tree green,#20b069,32,176,105,blue green,saturated color,color
+shamrock green,#02c14d,2,193,77,leafy green,#44a944,68,169,68,primary green,#39a332,57,163,50,green,saturated color,color
+shit,#7f5f00,127,95,0,warm brown,#8a5a04,138,90,4,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+shit brown,#7b5804,123,88,4,warm brown,#8a5a04,138,90,4,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+shit green,#758000,117,128,0,yellow olive,#727e04,114,126,4,swamp green,#6f7410,111,116,16,yellow green,dark color,color
+shocking pink,#fe02a2,254,2,162,hot pink,#fe0298,254,2,152,hot pink,#fd039f,253,3,159,violet red,neon color,color
+sick green,#9db92c,157,185,44,slime green,#9bc20e,155,194,14,lime green,#9abf11,154,191,17,yellow green,tinted color,color
+sickly green,#94b21c,148,178,28,ripe avocado,#94b21c,148,178,28,lime green,#9abf11,154,191,17,yellow green,tinted color,color
+sickly yellow,#d0e429,208,228,41,neon lime yellow,#c5f622,197,246,34,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+sienna,#a9561e,169,86,30,warm brown,#8a5a04,138,90,4,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+silver,#c5c9c7,197,201,199,light grey,#c1c3bb,193,195,187,light grey,#c1c3bb,193,195,187,grey,light neutral,neutral
+sky,#82cafc,130,202,252,sky blue,#7ec9f9,126,201,249,light blue,#88c4ec,136,196,236,blue,pastel,color
+sky blue,#75bbfd,117,187,253,french blue,#8ec8fd,142,200,253,hydrangea,#94b5fc,148,181,252,violet blue,pastel,color
+slate,#516572,81,101,114,slate grey,#54646c,84,100,108,charcoal,#495459,73,84,89,grey,dark neutral,neutral
+slate blue,#5b7c99,91,124,153,medium indigo blue,#60809a,96,128,154,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+slate green,#658d6d,101,141,109,dark sage,#5f8961,95,137,97,sage green,#759e6d,117,158,109,blue green,muted color,color
+slate grey,#59656d,89,101,109,slate grey,#54646c,84,100,108,charcoal,#495459,73,84,89,grey,dark neutral,neutral
+slime green,#99cc04,153,204,4,slime green,#9bc20e,155,194,14,lime green,#9abf11,154,191,17,yellow green,tinted color,color
+snot,#acbb0d,172,187,13,bright olive,#afbd07,175,189,7,warm olive,#a4b90c,164,185,12,yellow green,saturated color,color
+snot green,#9dc100,157,193,0,avocado,#9ab611,154,182,17,warm olive,#a4b90c,164,185,12,yellow green,saturated color,color
+soft blue,#6488ea,100,136,234,deep hydrangea,#6488ea,100,136,234,powder blue,#6488ea,100,136,234,blue violet,tinted color,color
+soft green,#6fc276,111,194,118,granny smith apple,#74ae74,116,174,116,soft green,#8ddd79,141,221,121,green,tinted color,color
+soft pink,#fdb0c0,253,176,192,coral sunset pink,#fec1cb,254,193,203,coral sunset pink,#fec1cb,254,193,203,orange red,pastel,color
+soft purple,#a66fb5,166,111,181,plum,#9f62a1,159,98,161,grape,#ae62e3,174,98,227,purple,tinted color,color
+spearmint,#1ef876,30,248,118,seafoam,#7dfbac,125,251,172,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+spring green,#a9f971,169,249,113,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+spruce,#0a5f38,10,95,56,spruce,#187632,24,118,50,primary green,#39a332,57,163,50,green,saturated color,color
+squash,#f2ab15,242,171,21,mac and cheese,#f9b311,249,179,17,golden yellow,#f9b311,249,179,17,yellow orange,saturated color,color
+steel,#738595,115,133,149,steel grey,#6f808d,111,128,141,medium grey,#848b8d,132,139,141,grey,medium neutral,neutral
+steel blue,#5a7d9a,90,125,154,medium indigo blue,#60809a,96,128,154,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+steel grey,#6f828a,111,130,138,faded turquoise,#718690,113,134,144,muted teal,#64938d,100,147,141,green blue,muted color,color
+stone,#ada587,173,165,135,light olive,#aba58b,171,165,139,soft olive,#aba58b,171,165,139,olive,light neutral,neutral
+stormy blue,#507b9c,80,123,156,dark indigo blue,#3b6b93,59,107,147,indigo blue,#5a82a8,90,130,168,blue,muted color,color
+straw,#fcf679,252,246,121,neon yellow,#f1ed5b,241,237,91,neon yellow,#f6f489,246,244,137,yellow,neon color,color
+strawberry,#fb2943,251,41,67,strawberry,#f9234b,249,35,75,dark pink,#ed1a51,237,26,81,red,saturated color,color
+strong blue,#0c06f7,12,6,247,ultramarine blue,#0f1fe9,15,31,233,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+strong pink,#ff0789,255,7,137,hot pink,#fe0298,254,2,152,hot pink,#fd039f,253,3,159,violet red,neon color,color
+sun yellow,#ffdf22,255,223,34,sunshine,#fae23a,250,226,58,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+sunflower,#ffc512,255,197,18,goldenrod,#fbc20a,251,194,10,dandelion,#fbc20a,251,194,10,orange yellow,saturated color,color
+sunflower yellow,#ffda03,255,218,3,sunshine,#fae23a,250,226,58,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+sunny yellow,#fff917,255,249,23,gen z yellow,#fcfc2c,252,252,44,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+sunshine yellow,#fffd37,255,253,55,gen z yellow,#fcfc2c,252,252,44,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+swamp,#698339,105,131,57,army green,#6a7d14,106,125,20,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+swamp green,#748500,116,133,0,yellow olive,#727e04,114,126,4,swamp green,#6f7410,111,116,16,yellow green,dark color,color
+tan,#d1b26f,209,178,111,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+tan brown,#ab7e4c,171,126,76,warm khaki,#ab824c,171,130,76,mocha,#aa8556,170,133,86,khaki,medium neutral,neutral
+tan green,#a9be70,169,190,112,aloe,#b8da8e,184,218,142,aloe,#b8da8e,184,218,142,green,pastel,color
+tangerine,#ff9408,255,148,8,tangerine,#ff9408,255,148,8,light pumpkin,#f08504,240,133,4,orange,tinted color,color
+taupe,#b9a281,185,162,129,putty,#bba885,187,168,133,khaki,#c8ac7f,200,172,127,khaki,light neutral,neutral
+tea,#65ab7c,101,171,124,granny smith apple,#74ae74,116,174,116,soft green,#8ddd79,141,221,121,green,tinted color,color
+tea green,#bdf8a3,189,248,163,hospital green,#9bf78d,155,247,141,soft green,#8ddd79,141,221,121,green,tinted color,color
+teal,#029386,2,147,134,teal,#148f8a,20,143,138,peacock blue,#179e95,23,158,149,green blue,saturated color,color
+teal blue,#01889f,1,136,159,ocean teal,#037e90,3,126,144,ocean teal,#037e90,3,126,144,green blue,muted color,color
+teal green,#25a36f,37,163,111,oz green,#23a76d,35,167,109,tree green,#20b069,32,176,105,blue green,saturated color,color
+tealish,#24bca8,36,188,168,light turquoise,#1bbbab,27,187,171,peacock blue,#179e95,23,158,149,green blue,saturated color,color
+tealish green,#0cdc73,12,220,115,bright mint,#1fd37c,31,211,124,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+terra cotta,#c9643b,201,100,59,tobacco,#c9643b,201,100,59,terra cotta,#ca663f,202,102,63,red orange,dark color,color
+terracota,#cb6843,203,104,67,paprika,#ca6742,202,103,66,terra cotta,#ca663f,202,102,63,red orange,dark color,color
+terracotta,#ca6641,202,102,65,paprika,#ca6742,202,103,66,terra cotta,#ca663f,202,102,63,red orange,dark color,color
+tiffany blue,#7bf2da,123,242,218,light cyan,#7edec6,126,222,198,aqua,#4cd4b9,76,212,185,blue green,tinted color,color
+tomato,#ef4026,239,64,38,safety orange,#f73d13,247,61,19,rorange,#f12c11,241,44,17,orange red,saturated color,color
+tomato red,#ec2d01,236,45,1,safety orange,#f73d13,247,61,19,rorange,#f12c11,241,44,17,orange red,saturated color,color
+topaz,#13bbaf,19,187,175,light turquoise,#1bbbab,27,187,171,peacock blue,#179e95,23,158,149,green blue,saturated color,color
+toupe,#c7ac7d,199,172,125,light khaki,#d8ba89,216,186,137,khaki,#c8ac7f,200,172,127,khaki,light neutral,neutral
+toxic green,#61de2a,97,222,42,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+tree green,#2a7e19,42,126,25,spruce,#187632,24,118,50,primary green,#39a332,57,163,50,green,saturated color,color
+true blue,#010fcc,1,15,204,ultramarine blue,#0f1fe9,15,31,233,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+true green,#089404,8,148,4,primary green,#1aa248,26,162,72,primary green,#39a332,57,163,50,green,saturated color,color
+turquoise,#06c2ac,6,194,172,turquoise,#05cdaf,5,205,175,aqua,#4cd4b9,76,212,185,blue green,tinted color,color
+turquoise blue,#06b1c4,6,177,196,caribbean blue,#13ebef,19,235,239,caribbean blue,#13ebef,19,235,239,green blue,tinted color,color
+turquoise green,#04f489,4,244,137,lime,#0ff684,15,246,132,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+turtle green,#75b84f,117,184,79,fern green,#659c40,101,156,64,stem green,#659c40,101,156,64,yellow green,tinted color,color
+twilight,#4e518b,78,81,139,dusk,#4e5286,78,82,134,dusk purple,#4e5286,78,82,134,blue violet,dark color,color
+twilight blue,#0a437a,10,67,122,indigo,#033c72,3,60,114,navy,#031656,3,22,86,blue,dark neutral,neutral
+ugly blue,#31668a,49,102,138,ocean blue,#187095,24,112,149,dark aqua,#156588,21,101,136,green blue,dark color,color
+ugly brown,#7d7103,125,113,3,ugly brown,#7d7103,125,113,3,camouflage green,#565e11,86,94,17,olive,dark neutral,neutral
+ugly green,#7a9703,122,151,3,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+ugly pink,#cd7584,205,117,132,moody pink,#d58998,213,137,152,moody pink,#d58998,213,137,152,violet red,pastel,color
+ugly purple,#a442a0,164,66,160,barney,#9b3ca0,155,60,160,primary purple,#8724cd,135,36,205,purple,saturated color,color
+ugly yellow,#d0c101,208,193,1,butter yellow,#f7f2ad,247,242,173,butter yellow,#f7f2ad,247,242,173,yellow,pastel,color
+ultramarine,#2000b1,32,0,177,cobalt medium,#141ca5,20,28,165,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+ultramarine blue,#1805db,24,5,219,ultramarine blue,#0f1fe9,15,31,233,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+umber,#b26400,178,100,0,copper,#b55f07,181,95,7,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+velvet,#750851,117,8,81,boysenberry,#730454,115,4,84,maroon,#62152f,98,21,47,red violet,dark color,color
+vermillion,#f4320c,244,50,12,vermillion,#f4320c,244,50,12,vermilion,#f4320c,244,50,12,red orange,saturated color,color
+very dark blue,#000133,0,1,51,navy,#040937,4,9,55,navy,#031656,3,22,86,blue,dark neutral,neutral
+very dark brown,#1d0200,29,2,0,black,#0c0504,12,5,4,black,#0c0504,12,5,4,black,dark neutral,neutral
+very dark green,#062e03,6,46,3,hunter green,#06400a,6,64,10,hunter green,#06400a,6,64,10,blue green,dark color,color
+very dark purple,#2a0134,42,1,52,eggplant,#35043c,53,4,60,dark purple,#390346,57,3,70,purple,dark color,color
+very light blue,#d5ffff,213,255,255,pale aqua,#c9fefb,201,254,251,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+very light brown,#d3b683,211,182,131,light khaki,#d8ba89,216,186,137,khaki,#c8ac7f,200,172,127,khaki,light neutral,neutral
+very light green,#d1ffbd,209,255,189,pastel neon green,#cdfdba,205,253,186,neon lime sherbet,#8cfb7e,140,251,126,blue green,neon color,color
+very light pink,#fff4f2,255,244,242,pink whisper,#fff4f2,255,244,242,pink,#fec9de,254,201,222,red,pastel,color
+very light purple,#f6cefc,246,206,252,pale lavender,#f0c9fd,240,201,253,warm lavender,#f0c9fd,240,201,253,red violet,pastel,color
+very pale blue,#d6fffe,214,255,254,pale aqua,#c9fefb,201,254,251,light aqua,#b6fbf6,182,251,246,green blue,pastel,color
+very pale green,#cffdbc,207,253,188,pastel neon green,#cdfdba,205,253,186,neon lime sherbet,#8cfb7e,140,251,126,blue green,neon color,color
+vibrant blue,#0339f8,3,57,248,ultramarine blue,#0f1fe9,15,31,233,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+vibrant green,#0add08,10,221,8,neon green,#53f72c,83,247,44,neon green,#53f72c,83,247,44,green,neon color,color
+vibrant purple,#ad03de,173,3,222,magenta,#a90bca,169,11,202,magenta,#a90bca,169,11,202,purple,saturated color,color
+violet,#9a0eea,154,14,234,ultraviolet,#9613df,150,19,223,primary purple,#8724cd,135,36,205,purple,saturated color,color
+violet blue,#510ac9,81,10,201,bright purple,#4d21bf,77,33,191,bright purple,#5636c4,86,54,196,blue violet,saturated color,color
+violet pink,#fb5ffc,251,95,252,faded magenta,#ee42e2,238,66,226,muted magenta,#e458d3,228,88,211,red violet,tinted color,color
+violet red,#a50055,165,0,85,malbec,#90074b,144,7,75,wine,#980f60,152,15,96,red violet,saturated color,color
+viridian,#1e9167,30,145,103,oz green,#23a76d,35,167,109,tree green,#20b069,32,176,105,blue green,saturated color,color
+vivid blue,#152eff,21,46,255,ultramarine blue,#0f1fe9,15,31,233,cobalt blue,#1235df,18,53,223,blue,saturated color,color
+vivid green,#2fef10,47,239,16,blue neon green,#5bfa52,91,250,82,neon lime sherbet,#8cfb7e,140,251,126,blue green,neon color,color
+vivid purple,#9900fa,153,0,250,ultraviolet,#9613df,150,19,223,primary purple,#8724cd,135,36,205,purple,saturated color,color
+vomit,#a2a415,162,164,21,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+vomit green,#89a203,137,162,3,pea green,#95a911,149,169,17,pea green,#95a911,149,169,17,yellow green,muted color,color
+vomit yellow,#c7c10c,199,193,12,chartreuse,#b6a306,182,163,6,chartreuse,#b6a306,182,163,6,green yellow,muted color,color
+warm blue,#4b57db,75,87,219,soft blue,#2d6ebd,45,110,189,bright blue,#2078c7,32,120,199,blue,tinted color,color
+warm brown,#964e02,150,78,2,warm brown,#8a5a04,138,90,4,sienna,#a25e15,162,94,21,sienna,painterly neutral,neutral
+warm grey,#978a84,151,138,132,medium grey,#8e908d,142,144,141,medium grey,#848b8d,132,139,141,grey,medium neutral,neutral
+warm pink,#fb5581,251,85,129,bubblegum pink,#fa6294,250,98,148,medium pink,#fb5f87,251,95,135,red,tinted color,color
+warm purple,#952e8f,149,46,143,barney,#9b3ca0,155,60,160,primary purple,#8724cd,135,36,205,purple,saturated color,color
+washed out green,#bcf5a6,188,245,166,aloe,#b8da8e,184,218,142,aloe,#b8da8e,184,218,142,green,pastel,color
+water blue,#0e87cc,14,135,204,azure blue,#088cda,8,140,218,bright blue,#2078c7,32,120,199,blue,tinted color,color
+watermelon,#fd4659,253,70,89,watermelon,#fb304f,251,48,79,medium pink,#fb5f87,251,95,135,red,tinted color,color
+weird green,#3ae57f,58,229,127,hospital green,#9bf78d,155,247,141,soft green,#8ddd79,141,221,121,green,tinted color,color
+wheat,#fbdd7e,251,221,126,soft yellow,#f6d96a,246,217,106,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+white,#ffffff,255,255,255,white,#fefefe,254,254,254,white,#fefefe,254,254,254,white,light neutral,neutral
+windows blue,#3778bf,55,120,191,soft blue,#2d6ebd,45,110,189,bright blue,#2078c7,32,120,199,blue,tinted color,color
+wine,#80013f,128,1,63,malbec,#90074b,144,7,75,wine,#980f60,152,15,96,red violet,saturated color,color
+wine red,#7b0323,123,3,35,claret,#6d042a,109,4,42,wine,#980f60,152,15,96,red violet,saturated color,color
+wintergreen,#20f986,32,249,134,lime,#0ff684,15,246,132,mint green,#52ec9c,82,236,156,blue green,tinted color,color
+wisteria,#a87dc2,168,125,194,wisteria,#9f75bf,159,117,191,muted purple,#8c588e,140,88,142,red violet,muted color,color
+yellow,#ffff14,255,255,20,gen z yellow,#fcfc2c,252,252,44,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+yellow brown,#b79400,183,148,0,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+yellow green,#c0fb2d,192,251,45,neon lime yellow,#c5f622,197,246,34,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+yellow ochre,#cb9d06,203,157,6,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+yellow orange,#fcb001,252,176,1,kumquat,#fdab30,253,171,48,navel orange,#fdab30,253,171,48,yellow orange,tinted color,color
+yellow tan,#ffe36e,255,227,110,soft yellow,#f6d96a,246,217,106,soft yellow,#f5e667,245,230,103,yellow,tinted color,color
+yellow/green,#c8fd3d,200,253,61,neon lime yellow,#c5f622,197,246,34,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+yellowgreen,#bbf90f,187,249,15,neon lime yellow,#c5f622,197,246,34,neon lime,#c1f529,193,245,41,green yellow,neon color,color
+yellowish,#faee66,250,238,102,sunshine,#fae23a,250,226,58,gen z yellow,#fbf132,251,241,50,yellow,saturated color,color
+yellowish brown,#9b7a01,155,122,1,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+yellowish green,#b0dd16,176,221,22,neon limeade,#c1f354,193,243,84,neon lemon lime,#c1f354,193,243,84,yellow green,neon color,color
+yellowish orange,#ffab0f,255,171,15,kumquat,#fdab30,253,171,48,navel orange,#fdab30,253,171,48,yellow orange,tinted color,color
+yellowish tan,#fcfc81,252,252,129,neon yellow,#f1ed5b,241,237,91,neon yellow,#f6f489,246,244,137,yellow,neon color,color
+yellowy brown,#ae8b0c,174,139,12,dark mustard,#b8950c,184,149,12,mustard,#b8950c,184,149,12,orange yellow,dark color,color
+yellowy green,#bff128,191,241,40,neon limeade,#c1f354,193,243,84,neon lemon lime,#c1f354,193,243,84,yellow green,neon color,color
