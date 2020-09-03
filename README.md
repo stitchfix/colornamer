@@ -5,6 +5,7 @@ Given a color, return a hierarchy of names.
 ```
 pip install colornamer
 ```
+(published on PyPI [here](https://pypi.org/project/colornamer/))
 
 ## Usage
 ```
