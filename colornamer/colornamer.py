@@ -82,3 +82,12 @@ def get_color_from_lab(lab_color: List[float]) -> Dict:
     )
     xkcd_name = color_data["xkcd_names"][dists.argmin()]
     return color_data["color_hierarchy"][xkcd_name]
+
+def get_color_json() -> Dict:
+    """ Just return the whole json from color_hierarchy.json; you can then use
+    it however you like. For example, pd.DataFrame(color_json) if a pandas
+    DataFrame is useful to you."""
+    hierarchy_txt = pkg_resources.read_text("static", HIERARCHY_JSON_FILE)
+    color_json = json.loads(hierarchy_txt)
+    return color_json
+
