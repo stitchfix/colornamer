@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="colornamer",
-    version="0.2.0",
+    version="0.2.1",
     description="Given a color, return a hierarchy of names.",
     long_description="Turns an RGB or LAB point into a hierarchical list of "
         "names: color family, common color, design color, and xkcd color, as "
@@ -13,7 +13,7 @@ setup(
     url="https://github.com/stitchfix/colornamer",
     packages=find_packages(),
     package_data={"static": ["color_hierarchy.json", "color_hierarchy.csv"],},
-    install_requires=["importlib_resources", "numpy", "scikit-image",],
+    install_requires=["importlib_resources", "numpy", "scikit-image==0.17.2",],
     python_requires=">=3.6",
     author="Dan Tasse",
     author_email="dan.tasse@stitchfix.com"
