@@ -24,7 +24,7 @@ def _get_color_data():
         ]
     )
     return {
-        "lab_values": rgb2lab([rgb_values]),
+        "lab_values": rgb2lab(rgb_values),
         "xkcd_names": [c["xkcd_color"] for c in color_json],
         "color_hierarchy": {c["xkcd_color"]: c for c in color_json},
     }
