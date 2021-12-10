@@ -77,9 +77,9 @@ def get_color_from_lab(lab_color: List[float]) -> Dict:
         lab_color[2] >= -128 and lab_color[2] <= 127
     ), "B should be between -128 and 127."
 
-    dists = np.array(
-        [deltaE_ciede2000(lab_color, item) for item in color_data["lab_values"]]
-    )
+    # lab_values: (n, 3). lab_color: (3,). wrap lab_color so it's (1, 3) and
+    # vectorized comparison can work.
+    dists = deltaE_ciede2000(color_data['lab_values'], np.array([lab_color]), channel_axis=1)
     xkcd_name = color_data["xkcd_names"][dists.argmin()]
     return color_data["color_hierarchy"][xkcd_name]
 

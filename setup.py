@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="colornamer",
-    version="0.2.2",
+    version="0.2.3",
     description="Given a color, return a hierarchy of names.",
     long_description="Turns an RGB or LAB point into a hierarchical list of "
         "names: color family, common color, design color, and xkcd color, as "
